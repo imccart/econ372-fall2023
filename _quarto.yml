@@ -1,0 +1,99 @@
+---
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!README.md"
+    - "!LICENSE.md"
+  resources:
+    - "files/"
+
+execute:
+  # Re-render only when source changes
+  freeze: auto
+
+bibliography: files/bib/references.bib
+csl: files/bib/chicago-author-date.csl
+description-meta: "Course on the Economics of Health Care Markets at Emory University"
+
+website:
+  title: "Economics of Health Care Markets"
+  #site-url: "https://bayesf22.classes.andrewheiss.com/"
+
+  favicon: "/files/favicon.png"
+
+  twitter-card:
+    image: "/files/social-image-f22.png"
+    card-style: summary_large_image
+    creator: "@ianhealthecon"
+    # site: "@andrewheiss"
+
+  open-graph:
+    image: "/files/social-image-f22.png"
+    locale: en_US
+
+  repo-url: "https://github.com/imccart/econ372-fall2023"
+  repo-actions: [edit, issue]
+
+  page-navigation: true
+
+  navbar:
+    pinned: true
+    background: primary
+    right:
+      - syllabus.qmd
+      - text: "Schedule"
+        file: schedule/index.qmd
+      - text: "Assignments"
+        file: assignments/index.qmd
+      - text: "Resources"
+        file: resources/index.qmd
+      - icon: github
+        href: "https://github.com/imccart/econ372-fall2023"
+        aria-label: GitHub
+
+  sidebar:
+    - title: "Schedule"
+      style: "docked"
+      background: dark
+      contents:
+        - schedule/index.qmd
+        - schedule/01-week.qmd
+        - schedule/02-week.qmd
+        - schedule/03-week.qmd
+        - schedule/04-week.qmd
+        - schedule/05-week.qmd
+        - schedule/06-week.qmd
+        - schedule/07-week.qmd
+        - schedule/08-week.qmd
+        - schedule/09-week.qmd
+        - schedule/10-week.qmd
+        - schedule/11-week.qmd
+        - schedule/12-week.qmd
+        - schedule/13-week.qmd
+        - schedule/14-week.qmd
+
+    # Need to reference a second hybrid sidebar section even though only the
+    # schedule section uses a hybrid sidebar because without this, all the pages
+    # get the sidebar instead of just the schedule section :shrug:
+    - title: "Resources"
+
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} 2023 by Ian McCarthy<br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub](https://github.com/imccart/econ372-fall2023)
+
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
