@@ -54,7 +54,7 @@ website:
         aria-label: GitHub
 
   sidebar:
-    - title: "General Information"
+    - title: "Assignments"
       style: "docked"
       background: dark
       contents:
