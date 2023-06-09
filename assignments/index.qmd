@@ -1,5 +1,6 @@
 ---
 title: "Assignments"
+link-title: "General"
 ---
 
 Below are basic descriptions of each category of assignments for this semester. More details are available on the individual pages for each assignment. Please be sure to check the due dates on each assignment. Late assignments will receive an automatic 2% reduction in the grade for each day the assignment is turned in after the due date.
