@@ -1,0 +1,10 @@
+---
+title: "Schedule"
+toc: false
+---
+
+| Class | Day          | Topic                                                | Details | Main Reading | Slides | Assignment |
+|:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
+|  1   | August 23     | **Introduction to Health Care Markets**             | [{{< fa book >}}](/schedule/class-00.html) |
+
+: {tbl-colwidths="\[5,20,35,10,10,10,10\]"}
