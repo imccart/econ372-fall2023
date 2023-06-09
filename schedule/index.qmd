@@ -3,12 +3,15 @@ title: "Schedule"
 toc: false
 ---
 
+# Module 0: Welcome to the class!
+
 | Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
-| **Module 0: Welcome to the class!**                                                              |
 |  1   | 8/23      | **Motivation**                   | [{{< fa book >}}](/schedule/class-00.html) |
-| **Module 1: Demand for Health Insurance**                                                        |
+: {tbl-colwidths="\[5,20,50,10,10,10,10\]"}
+
+
+# Module 1: Health Insurance
 |  2   | 8/28      | **Basics of Health Insurance**   | [{{< fa book >}}](/schedule/class-11.html) |
 |  3-4 | 8/30, 9/6 | **Demand for Health Insurance**  | [{{< fa book >}}](/schedule/class-12.html) |
-
 : {tbl-colwidths="\[5,20,50,10,10,10,10\]"}
