@@ -18,9 +18,6 @@ options(digits = 3, width = 120,
         knitr.kable.NA = "")
 
 library(googledrive)
-library(dplyr)
-library(tibble)
-library(pander)
 drive_download("bibliography/BibTeX_Library.bib", overwrite=TRUE, path='files/bib/references.bib')
 ```
 

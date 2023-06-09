@@ -101,6 +101,8 @@ Any form of sexual harassment or violence will not be excused or tolerated at Em
 Detailed descriptions of all assignments are on the [assignments page](/assignment/). Each assignment will contribute to your final grade as described below.
 
 ```{r assignments-grades, include=FALSE}
+library(dplyr)
+library(tibble)
 assignments <- tibble(
   Assignment = c("Participation", "Homework (60 x 3)", "Mid-term exam", "Final project"),  
   Points = c(20, 60*3, 60, 140)
@@ -121,6 +123,7 @@ grading <- tibble(
 <center>
 
 ```{r assignments-table, echo=FALSE, results="asis"}
+library(pander)
 pandoc.table(assignments, justify="lcc")
 ```
 
