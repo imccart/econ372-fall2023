@@ -44,8 +44,7 @@ website:
     background: primary
     right:
       - syllabus.qmd
-      - text: "Schedule"
-        file: schedule/index.qmd
+      - schedule.qmd
       - text: "Assignments"
         file: assignments/index.qmd
       - text: "Resources"
