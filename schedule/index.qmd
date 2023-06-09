@@ -12,6 +12,9 @@ toc: false
 
 
 # Module 1: Health Insurance
+
+| Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
+|:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
 |  2   | 8/28      | **Basics of Health Insurance**   | [{{< fa book >}}](/schedule/class-11.html) |
 |  3-4 | 8/30, 9/6 | **Demand for Health Insurance**  | [{{< fa book >}}](/schedule/class-12.html) |
 : {tbl-colwidths="\[5,20,50,10,10,10,10\]"}
