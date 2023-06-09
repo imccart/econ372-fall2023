@@ -35,7 +35,6 @@ website:
     locale: en_US
 
   repo-url: "https://github.com/imccart/econ372-fall2023"
-  repo-actions: [edit, issue]
 
   page-navigation: true
 
