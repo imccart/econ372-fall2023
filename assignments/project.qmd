@@ -1,16 +1,5 @@
 ---
 title: "Final Project"
-linktitle: "Final project"
-due_date: "2023-04-24"
-due_time: "11:59 PM"
-output:
-  blogdown::html_page:
-    toc: false
-menu:
-  assignment:
-    parent: Project
-    weight: 1
-type: docs
 ---
 
 This year, the final project is a 2-page policy brief. This is a big part of your grade and essentially replaces what would otherwise be a final exam. Please start as early as possible and save yourself lots of stress in April! Big thanks to [Prof. Rebecca Kreitzer](https://www.rebeccakreitzer.com/) for making her policy brief assignment publicly available on her website, which was the basis for our project.

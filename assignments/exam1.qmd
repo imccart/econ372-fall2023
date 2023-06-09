@@ -1,16 +1,5 @@
 ---
 title: "Mid-term Exam"
-linktitle: "Mid-term exam"
-due_date: "2023-03-22"
-due_time: "11:35 AM"
-output:
-  blogdown::html_page:
-    toc: false
-menu:
-  assignment:
-    parent: Exam
-    weight: 1
-type: docs
 ---
 
 We only have one exam this semester. It will cover all content from Modules 1 and 2. This includes our coverage of insurance purchases and insurance markets (risk aversion, the risk premium and willingness to pay, and adverse selection), as well as our coverage of physician agency (agency under fee-for-service payments, capitated payments, and fixed prices). 

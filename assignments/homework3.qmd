@@ -1,16 +1,5 @@
 ---
 title: "Homework 3"
-linktitle: "Homework 3"
-due_date: "2023-04-21"
-due_time: "11:59 PM"
-output:
-  blogdown::html_page:
-    toc: false
-menu:
-  assignment:
-    parent: Homework
-    weight: 3
-type: docs
 ---
 
 ## Instructions

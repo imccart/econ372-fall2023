@@ -60,6 +60,10 @@ website:
       contents:
         - assignments/index.qmd
         - assignments/homework1.qmd
+        - assignments/homework2.qmd
+        - assignments/homework3.qmd
+        - assignments/exam1.qmd
+        - assignments/project.qmd
   
     - title: "Resources"
       style: "docked"
