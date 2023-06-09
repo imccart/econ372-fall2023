@@ -54,6 +54,21 @@ website:
         href: "https://github.com/imccart/econ372-fall2023"
         aria-label: GitHub
 
+  sidebar:
+    - title: "Assignments"
+      style: "docked"
+      background: dark
+      contents:
+        - assignments/index.qmd
+        - assignments/homework1.qmd
+  
+    - title: "Resources"
+      style: "docked"
+      background: dark
+      contents:
+        - resources/index.qmd
+
+
   page-footer:
     left: |
       Content {{< fa brands creative-commons >}} 2023 by Ian McCarthy<br>
