@@ -5,7 +5,7 @@ toc: false
 
 | Week | Day          | Topic                                                | *Rethinking* | *Rethinking* lecture | *Bayes Rules* |                 Details                  |
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
-|  1   | August 25    | **Introduction to Bayesian thinking + {targets}**    |      1       |          1           |       1       | [{{< fa book >}}](/schedule/01-week.qmd) |
+|  1   | August 2    | **Introduction to Bayesian thinking + {targets}**    |      1       |          1           |       1       | [{{< fa book >}}](/schedule/01-week.qmd) |
 |  2   | September 1  | **Starting with Bayes rule, models, and regression** |     2--3     |          2           |     2--3      | [{{< fa book >}}](/schedule/02-week.qmd) |
 |  3   | September 8  | **Regression, priors, and conjugates**               |     4--5     |         3--4         |     4--5      | [{{< fa book >}}](/schedule/03-week.qmd) |
 |  —   | September 15 | *(off)*                                              |     ---      |         ---          |     ---       |                   ---                    |
