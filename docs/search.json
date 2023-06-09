@@ -88,7 +88,7 @@
     "href": "schedule/class-00.html#activities",
     "title": "Introduction to U.S. Health Care",
     "section": "Activities",
-    "text": "Activities\n\nReview the syllabus, schedule, content, and assignments pages for this class…just to get a feel for the site and how to navigate all of the information.\nDiscussion of U.S. health care expenditures and quality\nOverview of class and introductions\nComplete the Math Review and Practice Problems"
+    "text": "Activities\n\nReview the syllabus, schedule, and assignments pages for this class…just to get a feel for the site and how to navigate all of the information.\nDiscussion of U.S. health care expenditures and quality\nOverview of class and introductions\nComplete the Math Review and Practice Problems"
   },
   {
     "objectID": "schedule/class-00.html#readings-and-related-info",
@@ -103,5 +103,12 @@
     "title": "Introduction to U.S. Health Care",
     "section": "Slides",
     "text": "Slides\nThe goal of this module is to answer the key questions that anyone should want answered when they start to learn something new, “what, why, who, and how?” That is, “what are we learning and why?”, “who is learning it?”, and “how are we going to learn it?” Why are you taking this class? What’s so interesting about health economics? Hopefully this part of our discussion convinces you how important and interesting health economics is.\nUse the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands.\n\n\n\nknitr::include_url(\"https://imccart.github.io/econ372-content/00-Introduction/00-intro.html\")\n\n\n\n\n View all slides in new window  Download PDF of all slides"
+  },
+  {
+    "objectID": "schedule/class-00.html#supplemental-info",
+    "href": "schedule/class-00.html#supplemental-info",
+    "title": "Introduction to U.S. Health Care",
+    "section": "Supplemental Info",
+    "text": "Supplemental Info\n\n These articles are more of a guide for the semester. We’ll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.\n\n(Arrow 1963). Link to paper here.\n(Gaynor, Ho, and Town 2015). Link to paper here.\n\n Supplemental information we’ll use throughout this module.\nData from Gapminder\nFor a good discussion of hospital prices and something called “charges”, see (Anderson et al. 2003). Link to paper here.\nHealthcare triage videos: The Healthcare System of the United States and Why Does the US Spend So Much On Healthcare?\nTime, 2013. Bitter Pill: Why Medical Bills are Killing Us\nForbes, 2018. Healthcare: It’s the prices, stupid. Isn’t it? - Blog, Random Critical Analysis, November 2018. “Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith.”"
   }
 ]

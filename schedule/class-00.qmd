@@ -15,13 +15,13 @@ Below are our specific objectives, activities, and other resources for this intr
 - Summarize some of the unique economic features of the U.S. health care market
 
 ## Activities 
-- Review the [syllabus](/syllabus/), [schedule](/schedule/), [content](/content/), and [assignments](/assignment/) pages for this class...just to get a feel for the site and how to navigate all of the information.
+- Review the [syllabus](/syllabus.html), [schedule](/schedule.html), and [assignments](/assignments.html) pages for this class...just to get a feel for the site and how to navigate all of the information.
 - Discussion of U.S. health care expenditures and quality
 - Overview of class and introductions
 - Complete the [Math Review](/resource/review1) and [Practice Problems](/resource/review2)
 
 
-## Readings and related info
+## Supplemental Info
 - <i class="fas fa-book"></i> These articles are more of a guide for the semester. We'll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.
     - [@arrow1963]. Link to paper [here](https://www.jstor.org/stable/1812044).
     - [@gaynor2015jel]. Link to paper [here](https://www.aeaweb.org/articles?id=10.1257/jel.53.2.235).
@@ -32,26 +32,3 @@ Below are our specific objectives, activities, and other resources for this intr
 - Time, 2013. [Bitter Pill: Why Medical Bills are Killing Us](https://time.com/198/bitter-pill-why-medical-bills-are-killing-us/)
 - Forbes, 2018. [Healthcare: It's the prices, stupid. Isn't it?](https://www.forbes.com/sites/elliekincaid/2018/03/13/healthcare-its-the-prices-stupid-isnt-it/#52a5fda3198a)
                                                                    - Blog, Random Critical Analysis, November 2018. ["Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith."](https://randomcriticalanalysis.com/2018/11/19/why-everything-you-know-about-healthcare-is-wrong-in-one-million-charts-a-response-to-noah-smith/)
-                                                                 
-                                                                 
-## Slides
-
-The goal of this module is to answer the key questions that anyone should want answered when they start to learn something new, "what, why, who, and how?" That is, "what are we learning and why?", "who is learning it?", and "how are we going to learn it?" Why are you taking this class? What's so interesting about health economics? Hopefully this part of our discussion convinces you how important and interesting health economics is. 
-
-Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
-
-:::fyi
-**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
-:::
-
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/econ372-content/00-Introduction/00-intro.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ372-content/00-Introduction/00-intro.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ372-content/00-Introduction/00-intro.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
