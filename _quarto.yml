@@ -43,8 +43,8 @@ website:
     pinned: true
     background: primary
     right:
-      - syllabus.html
-      - schedule.html
+      - syllabus.qmd
+      - schedule.qmd
       - text: "Assignments"
         file: assignments/index.qmd
       - text: "Resources"
