@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://econ372f23.classes.ianmccarthyecon.com/assignments/homework1.html</loc>
+    <lastmod>2023-06-09T15:11:21.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ372f23.classes.ianmccarthyecon.com/assignments/index.html</loc>
+    <lastmod>2023-06-09T15:11:21.943Z</lastmod>
+  </url>
+  <url>
     <loc>https://econ372f23.classes.ianmccarthyecon.com/index.html</loc>
-    <lastmod>2023-06-09T15:05:37.296Z</lastmod>
+    <lastmod>2023-06-09T15:11:22.399Z</lastmod>
   </url>
   <url>
     <loc>https://econ372f23.classes.ianmccarthyecon.com/schedule.html</loc>
-    <lastmod>2023-06-09T15:05:37.724Z</lastmod>
+    <lastmod>2023-06-09T15:11:22.803Z</lastmod>
   </url>
   <url>
     <loc>https://econ372f23.classes.ianmccarthyecon.com/schedule/class-00.html</loc>
-    <lastmod>2023-06-09T15:05:38.236Z</lastmod>
+    <lastmod>2023-06-09T15:11:23.307Z</lastmod>
   </url>
   <url>
     <loc>https://econ372f23.classes.ianmccarthyecon.com/schedule/index.html</loc>
-    <lastmod>2023-06-09T15:05:38.664Z</lastmod>
+    <lastmod>2023-06-09T15:11:23.679Z</lastmod>
   </url>
   <url>
     <loc>https://econ372f23.classes.ianmccarthyecon.com/syllabus.html</loc>
-    <lastmod>2023-06-09T15:05:39.296Z</lastmod>
+    <lastmod>2023-06-09T15:11:24.315Z</lastmod>
   </url>
 </urlset>
