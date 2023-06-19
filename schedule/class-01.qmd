@@ -2,12 +2,6 @@
 title: "Introduction to U.S. Health Care"
 ---
 
-For each Module, I have an "airport" idea. This is something I took from [Invisible Learning](https://www.amazon.com/Invisible-Learning-legendary-Harvard-statistics-ebook/dp/B08P7TJZSQ). An "airport" idea is something that is "so memorable, so deeply entrenched in your brain and how you view the world, that in five years' time -- when I see you at an airport -- you will be able to explain those ideas to me even if you've forgotten everything else." These are bigger than learning outcomes or learning objectives.
-
-The airport idea for Module 0 is this: "Privatized health care introduces a web of complex incentives." This does **not** say that privatized health care is bad, or that it is better or worse than fully public health care...just that using private prices to allocate resources in health care is complicated.
-
-Below are our specific objectives, activities, and other resources for this introductory module.
-
 ## Objectives
 - Recall the total annual expenditures on health and health care in the U.S.
 - Compare U.S. health expenditures and quality to that of other countries
@@ -31,4 +25,4 @@ Below are our specific objectives, activities, and other resources for this intr
 - Healthcare triage videos: [The Healthcare System of the United States](https://www.youtube.com/watch?v=yN-MkRcOJjY) and [Why Does the US Spend So Much On Healthcare?](https://www.youtube.com/watch?v=tFtAohYPSFc)
 - Time, 2013. [Bitter Pill: Why Medical Bills are Killing Us](https://time.com/198/bitter-pill-why-medical-bills-are-killing-us/)
 - Forbes, 2018. [Healthcare: It's the prices, stupid. Isn't it?](https://www.forbes.com/sites/elliekincaid/2018/03/13/healthcare-its-the-prices-stupid-isnt-it/#52a5fda3198a)
-                                                                   - Blog, Random Critical Analysis, November 2018. ["Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith."](https://randomcriticalanalysis.com/2018/11/19/why-everything-you-know-about-healthcare-is-wrong-in-one-million-charts-a-response-to-noah-smith/)
+- Blog, Random Critical Analysis, November 2018. ["Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith."](https://randomcriticalanalysis.com/2018/11/19/why-everything-you-know-about-healthcare-is-wrong-in-one-million-charts-a-response-to-noah-smith/)

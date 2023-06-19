@@ -196,32 +196,32 @@
     "text": "Course Details\n 8-23-2023 to 12-5-2023  Monday & Wednesday  10:00am to 11:15am  White Hall 102"
   },
   {
-    "objectID": "schedule/class-00.html",
-    "href": "schedule/class-00.html",
+    "objectID": "schedule/class-01.html",
+    "href": "schedule/class-01.html",
     "title": "Introduction to U.S. Health Care",
     "section": "",
-    "text": "For each Module, I have an “airport” idea. This is something I took from Invisible Learning. An “airport” idea is something that is “so memorable, so deeply entrenched in your brain and how you view the world, that in five years’ time – when I see you at an airport – you will be able to explain those ideas to me even if you’ve forgotten everything else.” These are bigger than learning outcomes or learning objectives.\nThe airport idea for Module 0 is this: “Privatized health care introduces a web of complex incentives.” This does not say that privatized health care is bad, or that it is better or worse than fully public health care…just that using private prices to allocate resources in health care is complicated.\nBelow are our specific objectives, activities, and other resources for this introductory module."
+    "text": "Recall the total annual expenditures on health and health care in the U.S.\nCompare U.S. health expenditures and quality to that of other countries\nExplain the debate surrounding the role of prices in U.S. health care expenditures\nSummarize some of the unique economic features of the U.S. health care market"
   },
   {
-    "objectID": "schedule/class-00.html#objectives",
-    "href": "schedule/class-00.html#objectives",
+    "objectID": "schedule/class-01.html#objectives",
+    "href": "schedule/class-01.html#objectives",
     "title": "Introduction to U.S. Health Care",
-    "section": "Objectives",
-    "text": "Objectives\n\nRecall the total annual expenditures on health and health care in the U.S.\nCompare U.S. health expenditures and quality to that of other countries\nExplain the debate surrounding the role of prices in U.S. health care expenditures\nSummarize some of the unique economic features of the U.S. health care market"
+    "section": "",
+    "text": "Recall the total annual expenditures on health and health care in the U.S.\nCompare U.S. health expenditures and quality to that of other countries\nExplain the debate surrounding the role of prices in U.S. health care expenditures\nSummarize some of the unique economic features of the U.S. health care market"
   },
   {
-    "objectID": "schedule/class-00.html#activities",
-    "href": "schedule/class-00.html#activities",
+    "objectID": "schedule/class-01.html#activities",
+    "href": "schedule/class-01.html#activities",
     "title": "Introduction to U.S. Health Care",
     "section": "Activities",
     "text": "Activities\n\nReview the syllabus, schedule, and assignments pages for this class…just to get a feel for the site and how to navigate all of the information.\nDiscussion of U.S. health care expenditures and quality\nOverview of class and introductions\nComplete the Math Review and Practice Problems"
   },
   {
-    "objectID": "schedule/class-00.html#supplemental-info",
-    "href": "schedule/class-00.html#supplemental-info",
+    "objectID": "schedule/class-01.html#supplemental-info",
+    "href": "schedule/class-01.html#supplemental-info",
     "title": "Introduction to U.S. Health Care",
     "section": "Supplemental Info",
-    "text": "Supplemental Info\n\n These articles are more of a guide for the semester. We’ll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.\n\n(Arrow 1963). Link to paper here.\n(Gaynor, Ho, and Town 2015). Link to paper here.\n\n Supplemental information we’ll use throughout this module.\nData from Gapminder\nFor a good discussion of hospital prices and something called “charges”, see (Anderson et al. 2003). Link to paper here.\nHealthcare triage videos: The Healthcare System of the United States and Why Does the US Spend So Much On Healthcare?\nTime, 2013. Bitter Pill: Why Medical Bills are Killing Us\nForbes, 2018. Healthcare: It’s the prices, stupid. Isn’t it? - Blog, Random Critical Analysis, November 2018. “Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith.”"
+    "text": "Supplemental Info\n\n These articles are more of a guide for the semester. We’ll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.\n\n(Arrow 1963). Link to paper here.\n(Gaynor, Ho, and Town 2015). Link to paper here.\n\n Supplemental information we’ll use throughout this module.\nData from Gapminder\nFor a good discussion of hospital prices and something called “charges”, see (Anderson et al. 2003). Link to paper here.\nHealthcare triage videos: The Healthcare System of the United States and Why Does the US Spend So Much On Healthcare?\nTime, 2013. Bitter Pill: Why Medical Bills are Killing Us\nForbes, 2018. Healthcare: It’s the prices, stupid. Isn’t it?\nBlog, Random Critical Analysis, November 2018. “Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith.”"
   },
   {
     "objectID": "schedule/index.html",
@@ -243,6 +243,41 @@
     "title": "Schedule",
     "section": "Module 1: Health Insurance",
     "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n2\n8/28\nBasics of Health Insurance Contracts\n\n\n\n\n\n\n3\n8/30\nPrivate Health Insurance\n\n\n\n\n\n\n4\n9/6\nPublic Health Insurance\n\n\n\n\n\n\n\n9/8\nProject: Stage 1\n\n\n\n\n\n\n5\n9/11\nRisk Premiums\n\n\n\n\n\n\n6\n9/13\nWillingness to Pay\n\n\n\n\n\n\n7\n9/18\nAdverse Selection and Pricing\n\n\n\n\n\n\n8\n9/20\nHealth Insurance Competition\n\n\n\n\n\n\n\n9/22\nHomework 1"
+  },
+  {
+    "objectID": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
+    "href": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
+    "title": "Schedule",
+    "section": "Module 2: Physician Agency and Treatment Decisions",
+    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n9\n9/25\nBasics of Health Care Delivery\n\n\n\n\n\n\n10\n9/27\nPhysician Agency\n\n\n\n\n\n\n\n9/29\nProject: Stage 2\n\n\n\n\n\n\n11\n10/2\nPhysician Agency with Fee-for-Service Payments\n\n\n\n\n\n\n12\n10/4\nPhysician Agency with Capitated Payments\n\n\n\n\n\n\n13\n10/11\nOrganizational Structure\n\n\n\n\n\n\n\n10/13\nHomework 2"
+  },
+  {
+    "objectID": "schedule/index.html#exam-week",
+    "href": "schedule/index.html#exam-week",
+    "title": "Schedule",
+    "section": "Exam Week",
+    "text": "Exam Week\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n14\n10/16\nExam Review\n\n\n\n\n\n\n15\n10/18\nMid-term Exam"
+  },
+  {
+    "objectID": "schedule/index.html#module-3-hospital-pricing",
+    "href": "schedule/index.html#module-3-hospital-pricing",
+    "title": "Schedule",
+    "section": "Module 3: Hospital Pricing",
+    "text": "Module 3: Hospital Pricing\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n16\n10/23\nHistory of U.S. Hospitals\n\n\n\n\n\n\n17\n10/25\nHospital Objective Functions\n\n\n\n\n\n\n18\n10/30\nPricing in Monopolistic Competition\n\n\n\n\n\n\n19\n11/1\nTwo-price Market\n\n\n\n\n\n\n\n11/3\nProject: Stage 3\n\n\n\n\n\n\n20\n11/6\nBargaining\n\n\n\n\n\n\n21\n11/8\nMergers and Closures\n\n\n\n\n\n\n\n11/10\nHomework 3"
+  },
+  {
+    "objectID": "schedule/index.html#module-4-prescription-drugs",
+    "href": "schedule/index.html#module-4-prescription-drugs",
+    "title": "Schedule",
+    "section": "Module 4: Prescription Drugs",
+    "text": "Module 4: Prescription Drugs\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n22\n11/13\nBasics of Prescription Drugs\n\n\n\n\n\n\n23\n11/15\nDrug Pricing\n\n\n\n\n\n\n24\n11/20\nInnovation\n\n\n\n\n\n\n25\n11/27\nCompetition"
+  },
+  {
+    "objectID": "schedule/index.html#final-projects",
+    "href": "schedule/index.html#final-projects",
+    "title": "Schedule",
+    "section": "Final Projects",
+    "text": "Final Projects\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n26-27\n11/29-12/4\nProject: Stages 4-5"
   },
   {
     "objectID": "syllabus.html",
@@ -285,82 +320,5 @@
     "title": "Syllabus",
     "section": "Assignments and grades",
     "text": "Assignments and grades\nDetailed descriptions of all assignments are on the assignments page. Each assignment will contribute to your final grade as described below.\n\n\n\n\n\n\n\n\n\nAssignment\nPoints\nPercent\n\n\n\n\nParticipation\n10\n2.5%\n\n\nHomework (60 x 3)\n180\n45.0%\n\n\nMid-term exam\n60\n15.0%\n\n\nFinal project\n150\n37.5%\n\n\n\n\nYour final percentage grade comes from your total points as a percent of all possible points available in the class (400). That percent then translates to a letter grade as follows:\n\n\n\n\n\n\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93-100%\nC\n73-76%\n\n\nA-\n90-92%\nC-\n70-72%\n\n\nB+\n87-89%\nD+\n67-69%\n\n\nB\n83-86%\nD\n63-66%\n\n\nB-\n80-82%\nD-\n60-62%\n\n\nC+\n77-79%\nF\n&lt; 60%"
-  },
-  {
-    "objectID": "schedule/index.html#module-1-paying-for-health-care",
-    "href": "schedule/index.html#module-1-paying-for-health-care",
-    "title": "Schedule",
-    "section": "Module 1: Paying for Health Care",
-    "text": "Module 1: Paying for Health Care\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n\nBuying Health Insurance\n\n\n\n\n\n\n\n2\n8/30\nPart 1: Intro to Health Insurance\n\n\n\n\n\n\n3-4\n9/6-9/11\nPart 2: Demand for Health Insurance\n\n\n\n\n\n\n5\n9/13\nPart 3: Decision Making\n\n\n\n\n\n\n\n\nSection 2: Health Insurance Markets\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n6-7\n9/19-9/20\nPart 1: Adverse Selection\n\n\n\n\n\n\n8-9\n9/25-9/27\nPart 2: Insurer Competition\n\n\n\n\n\n\n\n9/29\nHomework 1"
-  },
-  {
-    "objectID": "schedule/index.html#module-2-delivering-health-care",
-    "href": "schedule/index.html#module-2-delivering-health-care",
-    "title": "Schedule",
-    "section": "Module 2: Delivering Health Care",
-    "text": "Module 2: Delivering Health Care\n\nSection 1: Physician Services\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n9\n9/25\nPart 1: Basics\n\n\n\n\n\n\n10-11\n9/27-10/2\nPart 2: Physician Agency\n\n\n\n\n\n\n12\n10/4\nPart 3: Health Care Variation\n\n\n\n\n\n\n\n\n\nSection 2: Hospitals\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n13-14\n10/16-10/18\nPart 1: Pricing and Bargaining\n\n\n\n\n\n\n15-16\n10/23-10/25\nPart 2: Hospital Competition\n\n\n\n\n\n\n\n\n\nMid-term Exam (10/30-11/1)"
-  },
-  {
-    "objectID": "schedule/class-01.html",
-    "href": "schedule/class-01.html",
-    "title": "Introduction to U.S. Health Care",
-    "section": "",
-    "text": "For each Module, I have an “airport” idea. This is something I took from Invisible Learning. An “airport” idea is something that is “so memorable, so deeply entrenched in your brain and how you view the world, that in five years’ time – when I see you at an airport – you will be able to explain those ideas to me even if you’ve forgotten everything else.” These are bigger than learning outcomes or learning objectives.\nThe airport idea for Module 0 is this: “Privatized health care introduces a web of complex incentives.” This does not say that privatized health care is bad, or that it is better or worse than fully public health care…just that using private prices to allocate resources in health care is complicated.\nBelow are our specific objectives, activities, and other resources for this introductory module."
-  },
-  {
-    "objectID": "schedule/class-01.html#objectives",
-    "href": "schedule/class-01.html#objectives",
-    "title": "Introduction to U.S. Health Care",
-    "section": "Objectives",
-    "text": "Objectives\n\nRecall the total annual expenditures on health and health care in the U.S.\nCompare U.S. health expenditures and quality to that of other countries\nExplain the debate surrounding the role of prices in U.S. health care expenditures\nSummarize some of the unique economic features of the U.S. health care market"
-  },
-  {
-    "objectID": "schedule/class-01.html#activities",
-    "href": "schedule/class-01.html#activities",
-    "title": "Introduction to U.S. Health Care",
-    "section": "Activities",
-    "text": "Activities\n\nReview the syllabus, schedule, and assignments pages for this class…just to get a feel for the site and how to navigate all of the information.\nDiscussion of U.S. health care expenditures and quality\nOverview of class and introductions\nComplete the Math Review and Practice Problems"
-  },
-  {
-    "objectID": "schedule/class-01.html#supplemental-info",
-    "href": "schedule/class-01.html#supplemental-info",
-    "title": "Introduction to U.S. Health Care",
-    "section": "Supplemental Info",
-    "text": "Supplemental Info\n\n These articles are more of a guide for the semester. We’ll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.\n\n(Arrow 1963). Link to paper here.\n(Gaynor, Ho, and Town 2015). Link to paper here.\n\n Supplemental information we’ll use throughout this module.\nData from Gapminder\nFor a good discussion of hospital prices and something called “charges”, see (Anderson et al. 2003). Link to paper here.\nHealthcare triage videos: The Healthcare System of the United States and Why Does the US Spend So Much On Healthcare?\nTime, 2013. Bitter Pill: Why Medical Bills are Killing Us\nForbes, 2018. Healthcare: It’s the prices, stupid. Isn’t it? - Blog, Random Critical Analysis, November 2018. “Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith.”"
-  },
-  {
-    "objectID": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
-    "href": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
-    "title": "Schedule",
-    "section": "Module 2: Physician Agency and Treatment Decisions",
-    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n9\n9/25\nBasics of Health Care Delivery\n\n\n\n\n\n\n10\n9/27\nPhysician Agency\n\n\n\n\n\n\n\n9/29\nProject: Stage 2\n\n\n\n\n\n\n11\n10/2\nPhysician Agency with Fee-for-Service Payments\n\n\n\n\n\n\n12\n10/4\nPhysician Agency with Capitated Payments\n\n\n\n\n\n\n13\n10/11\nOrganizational Structure\n\n\n\n\n\n\n\n10/13\nHomework 2"
-  },
-  {
-    "objectID": "schedule/index.html#exam-week",
-    "href": "schedule/index.html#exam-week",
-    "title": "Schedule",
-    "section": "Exam Week",
-    "text": "Exam Week\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n14\n10/16\nExam Review\n\n\n\n\n\n\n15\n10/18\nMid-term Exam"
-  },
-  {
-    "objectID": "schedule/index.html#module-3-hospital-pricing",
-    "href": "schedule/index.html#module-3-hospital-pricing",
-    "title": "Schedule",
-    "section": "Module 3: Hospital Pricing",
-    "text": "Module 3: Hospital Pricing\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n16\n10/23\nHistory of U.S. Hospitals\n\n\n\n\n\n\n17\n10/25\nHospital Objective Functions\n\n\n\n\n\n\n18\n10/30\nPricing in Monopolistic Competition\n\n\n\n\n\n\n19\n11/1\nTwo-price Market\n\n\n\n\n\n\n\n11/3\nProject: Stage 3\n\n\n\n\n\n\n20\n11/6\nBargaining\n\n\n\n\n\n\n21\n11/8\nMergers and Closures\n\n\n\n\n\n\n\n11/10\nHomework 3"
-  },
-  {
-    "objectID": "schedule/index.html#module-4-prescription-drugs",
-    "href": "schedule/index.html#module-4-prescription-drugs",
-    "title": "Schedule",
-    "section": "Module 4: Prescription Drugs",
-    "text": "Module 4: Prescription Drugs\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n22\n11/13\nBasics of Prescription Drugs\n\n\n\n\n\n\n23\n11/15\nDrug Pricing\n\n\n\n\n\n\n24\n11/20\nInnovation\n\n\n\n\n\n\n25\n11/27\nCompetition"
-  },
-  {
-    "objectID": "schedule/index.html#final-projects",
-    "href": "schedule/index.html#final-projects",
-    "title": "Schedule",
-    "section": "Final Projects",
-    "text": "Final Projects\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n26-27\n11/29-12/4\nProject: Stages 4-5"
   }
 ]
