@@ -7,14 +7,53 @@ toc: false
 
 | Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
-|  1   | 8/23      | **Motivation**                   | [{{< fa book >}}](/schedule/class-00.html) |
+|  1   | 8/23      | **Motivation**           | [{{< fa book >}}](/schedule/class-01.html) |
+|  2   | 8/28      | **Background**           | [{{< fa book >}}](/schedule/class-02.html) |
 : {tbl-colwidths="\[5,50,200,10,10,10,10\]"}
 
 
-## Module 1: Health Insurance
+## Module 1: Paying for Health Care
+
+### Section 1: Buying Health Insurance
 
 | Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
-|  2   | 8/28      | **Basics of Health Insurance**   | [{{< fa book >}}](/schedule/class-11.html) |
-|  3-4 | 8/30, 9/6 | **Demand for Health Insurance**  | [{{< fa book >}}](/schedule/class-12.html) |
+|  2   | 8/30       | **Part 1: Intro to Health Insurance**   | [{{< fa book >}}](/schedule/class-02.html) |
+|  3-4 | 9/6-9/11   | **Part 2: Demand for Health Insurance** | [{{< fa book >}}](/schedule/class-03.html) |
+|  5   | 9/13       | **Part 3: Decision Making**             | [{{< fa book >}}](/schedule/class-04.html) |
 : {tbl-colwidths="\[5,50,200,10,10,10,10\]"}
+
+
+### Section 2: Health Insurance Markets
+
+| Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
+|:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
+|  6-7 | 9/19-9/20  | **Part 1: Adverse Selection**        | [{{< fa book >}}](/schedule/class-02.html) |
+|  8-9 | 9/25-9/27  | **Part 2: Insurer Competition**      | [{{< fa book >}}](/schedule/class-03.html) |
+|      | 9/29       | **Homework 1**                       | [{{< fa book >}}](/schedule/class-03.html) |
+: {tbl-colwidths="\[5,50,200,10,10,10,10\]"}
+
+## Module 2: Delivering Health Care
+
+### Section 1: Physician Services
+
+| Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
+|:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
+|  9     | 9/25       | **Part 1: Basics**                | [{{< fa book >}}](/schedule/class-02.html) |
+|  10-11 | 9/27-10/2  | **Part 2: Physician Agency**      | [{{< fa book >}}](/schedule/class-03.html) |
+|  12    | 10/4       | **Part 3: Health Care Variation** | [{{< fa book >}}](/schedule/class-04.html) |
+: {tbl-colwidths="\[5,50,200,10,10,10,10\]"}
+
+### Section 2: Hospitals
+
+| Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
+|:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
+|  13-14 | 10/16-10/18 | **Part 1: Pricing and Bargaining** | [{{< fa book >}}](/schedule/class-02.html) |
+|  15-16 | 10/23-10/25 | **Part 2: Hospital Competition**   | [{{< fa book >}}](/schedule/class-03.html) |
+: {tbl-colwidths="\[5,50,200,10,10,10,10\]"}
+
+### Mid-term Exam (10/30-11/1)
+
+
+
+
