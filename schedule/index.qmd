@@ -7,7 +7,7 @@ body-width: 1200px
 
 | Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
-| **Module 0: Introduction**                                                                                      ||
+| **Module 0: Introduction**                                                                                      |||||||
 |  1    | 8/23       | **Motivation**                              | [{{< fa book >}}](/schedule/class-01.html) |
 |  2    | 8/28       | **Background**                              | [{{< fa book >}}](/schedule/class-02.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
