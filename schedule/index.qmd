@@ -16,11 +16,11 @@ toc: false
 
 ### Section 1: Buying Health Insurance
 
-| Class | Dates      | Topic                                   | Details | Main Reading | Slides | Assignment |
-|:------|------------|-----------------------------------------|:-------:|:------------:|:------:|:----------:|
-|  2    | 8/30       | **Part 1: Intro to Health Insurance**   | [{{< fa book >}}](/schedule/class-02.html) |
-|  3-4  | 9/6-9/11   | **Part 2: Demand for Health Insurance** | [{{< fa book >}}](/schedule/class-03.html) |
-|  5    | 9/13       | **Part 3: Decision Making**             | [{{< fa book >}}](/schedule/class-04.html) |
+| Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment |
+|:------|------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
+|  2    | 8/30       | **Part 1: Intro to Health Insurance**       | [{{< fa book >}}](/schedule/class-02.html) |
+|  3-4  | 9/6-9/11   | **Part 2: Demand for Health Insurance**     | [{{< fa book >}}](/schedule/class-03.html) |
+|  5    | 9/13       | **Part 3: Decision Making**                 | [{{< fa book >}}](/schedule/class-04.html) |
 
 
 ### Section 2: Health Insurance Markets
