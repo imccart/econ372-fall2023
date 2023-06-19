@@ -3,7 +3,7 @@ title: "Homework 2"
 ---
 
 ## Instructions
-This is our second homework assignment of the semester. It covers questions related to physician treatment decisions and asymmetric information. For some hints, take a look at these [supplemental homework 2 slides](https://docs.google.com/presentation/d/1hiZPH_dIAT5XatfQ6xaNkDiLc_JuXEjhiq4eNJugb14/edit?usp=sharing).
+This is our second homework assignment of the semester. It covers questions related to physician treatment decisions and asymmetric information. For some hints, take a look at these [supplemental homework 2 slides](https://docs.google.com/presentation/d/1hiZPH_dIAT5XatfQ6xaNkDiLc_JuXEjhiq4eNJugb14/edit?usp=sharing). Homework 2 is due by **midnight on Friday, October 13**.
 
 
 ## Theory Questions

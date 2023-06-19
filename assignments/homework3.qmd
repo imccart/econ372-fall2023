@@ -3,7 +3,7 @@ title: "Homework 3"
 ---
 
 ## Instructions
-This is our third and final homework assignment of the semester. It covers questions related to hospital pricing and competition. 
+This is our third and final homework assignment of the semester. It covers questions related to hospital pricing and competition. Homework 3 is due by **midnight on Friday, November 10**.
 
 ## Theory Questions
 1. Consider a for-profit practice facing the following demand and cost curves: $p=75-\frac{1}{2}q$ for private insurance patients and $c(q)=\frac{1}{4}q^{2}$.
