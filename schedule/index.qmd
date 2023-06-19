@@ -4,21 +4,20 @@ toc: false
 body-width: 1200px
 ---
 
+## Module 0: Welcome to the Class?
 
 | Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment  |
 |:-----:|------------|---------------------------------------------|:-------:|:------------:|:------:|:-----------:|
-| **Module 0: Introduction**                                                                                  ||||||
-|  1    | 8/23       | **Motivation**                              | [{{< fa book >}}](/schedule/class-01.html)  |||
-|  2    | 8/28       | **Background**                              | [{{< fa book >}}](/schedule/class-02.html)  |||
+|  1    | 8/23       | **Motivation**                              | [{{< fa book >}}](/schedule/class-01.html)    |
+|  2    | 8/28       | **Background**                              | [{{< fa book >}}](/schedule/class-02.html)    |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
 ## Module 1: Paying for Health Care
 
-### Section 1: Buying Health Insurance
-
 | Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
+|       | Buying Health Insurance ||
 |  2    | 8/30       | **Part 1: Intro to Health Insurance**       | [{{< fa book >}}](/schedule/class-02.html) |
 |  3-4  | 9/6-9/11   | **Part 2: Demand for Health Insurance**     | [{{< fa book >}}](/schedule/class-03.html) |
 |  5    | 9/13       | **Part 3: Decision Making**                 | [{{< fa book >}}](/schedule/class-04.html) |
