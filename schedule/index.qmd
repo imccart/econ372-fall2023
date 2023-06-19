@@ -19,6 +19,7 @@ body-width: 1200px
 |  2    | 8/28       | **Basics of Health Insurance Contracts**    | [{{< fa book >}}](/schedule/class-02.html)   |
 |  3    | 8/30       | **Private Health Insurance**                | [{{< fa book >}}](/schedule/class-03.html)   |
 |  4    | 9/6        | **Public Health Insurance**                 | [{{< fa book >}}](/schedule/class-04.html)   |
+|       | 9/8        | **Project: Stage 1**                        |    |
 |  5    | 9/11       | **Risk Premiums**                           | [{{< fa book >}}](/schedule/class-05.html) |
 |  6    | 9/13       | **Willingness to Pay**                      | [{{< fa book >}}](/schedule/class-06.html) |
 |  7    | 9/18       | **Adverse Selection and Pricing**           | [{{< fa book >}}](/schedule/class-07.html) |
@@ -33,6 +34,7 @@ body-width: 1200px
 |:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
 |  9    | 9/25        | **Basics of Health Care Delivery**          | [{{< fa book >}}](/schedule/class-09.html)   |
 |  10   | 9/27        | **Physician Agency**                        | [{{< fa book >}}](/schedule/class-10.html) |
+|       | 9/29        | **Project: Stage 2**                        |    |
 |  11   | 10/2        | **Physician Agency with Fee-for-Service Payments**  | [{{< fa book >}}](/schedule/class-11.html) |
 |  12   | 10/4        | **Physician Agency with Capitated Payments** | [{{< fa book >}}](/schedule/class-12.html) |
 |  13   | 10/11       | **Organizational Structure**                 | [{{< fa book >}}](/schedule/class-13.html) |
@@ -57,6 +59,7 @@ body-width: 1200px
 | 17    | 10/25       | **Hospital Objective Functions**            | [{{< fa book >}}](/schedule/class-17.html) |
 | 18    | 10/30       | **Pricing in Monopolistic Competition**     | [{{< fa book >}}](/schedule/class-18.html) |
 | 19    | 11/1        | **Two-price Market**                        | [{{< fa book >}}](/schedule/class-19.html) |
+|       | 11/3        | **Project: Stage 3**                        |    |
 | 20    | 11/6        | **Bargaining**                              | [{{< fa book >}}](/schedule/class-20.html) |
 | 21    | 11/8        | **Mergers and Closures**                    | [{{< fa book >}}](/schedule/class-21.html) |
 |       | 11/10       | **Homework 3**                              |    |
@@ -78,7 +81,7 @@ body-width: 1200px
 
 | Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
-|  26-27 | 11/29-12/4   | **Presentations**     |   |
+|  26-27 | 11/29-12/4   | **Project: Stages 4-5**     |   |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
