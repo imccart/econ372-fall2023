@@ -13,14 +13,14 @@ body-width: 1200px
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
-## Module 1: Paying for Health Care
+## Module 1: Health Insurance
 
 | Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
-|       | Buying Health Insurance ||
-|  2    | 8/30       | **Part 1: Intro to Health Insurance**       | [{{< fa book >}}](/schedule/class-02.html) |
-|  3-4  | 9/6-9/11   | **Part 2: Demand for Health Insurance**     | [{{< fa book >}}](/schedule/class-03.html) |
-|  5    | 9/13       | **Part 3: Decision Making**                 | [{{< fa book >}}](/schedule/class-04.html) |
+|  3-4  | 8/30-9/6   | **Demand for Health Insurance**             | [{{< fa book >}}](/schedule/class-03.html) |
+|  5-6  | 9/11-9/13  | **Adverse Selection and Pricing**           | [{{< fa book >}}](/schedule/class-04.html) |
+|  7-8  | 9/18-8/20  | **Health Insurance Competition**            | [{{< fa book >}}](/schedule/class-05.html) |
+|       | 9/29       | **Homework 1**                              |         |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
@@ -30,7 +30,6 @@ body-width: 1200px
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
 |  6-7 | 9/19-9/20  | **Part 1: Adverse Selection**        | [{{< fa book >}}](/schedule/class-02.html) |
 |  8-9 | 9/25-9/27  | **Part 2: Insurer Competition**      | [{{< fa book >}}](/schedule/class-03.html) |
-|      | 9/29       | **Homework 1**                       | [{{< fa book >}}](/schedule/class-03.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 ## Module 2: Delivering Health Care
