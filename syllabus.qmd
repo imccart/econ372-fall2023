@@ -30,11 +30,14 @@ If you're here, then you know where to find our class website. Well done! Hopefu
 
 
 ### Readings
-There are two optional textbooks for this class. One is an intermediate microeconomics textbook that will cover much of the basic economic theory, and another is a health economics textbook. We will supplement these textbooks with other readings listed below in the detailed schedule, as well as online presentations, policy papers, and videos. These books are in now way required, but they may be helpful for some students as an additional resource.
+There are two optional textbooks for this class. One is an intermediate microeconomics textbook that will cover much of the basic economic theory, and another is a health economics textbook. These books are in now way required, but they may be helpful for some students as an additional resource.
 
   - @pindyck2018
   - @sloan2012
   
+We will supplement these textbooks with other readings as well as online presentations, policy papers, and videos. I'm also writing a textbook specifically for this class (very much a work in progress at this point). A comprehensive list of materials and potential readings are available from the [schedule](/schedule/) page.
+  
+
 ### Statistics software
 Each assignment will generally include both a theoretical and empirical section. Most of the empirical work involves basic summary statistics. This can be done in just about any spreadsheet or statistics package. I'll use `R` for my work, but you are free to use whatever software you're most comfortable with. I encourage you to use `R` or `Python` simply because these are the most common programs used in applied data analysis right now, but you can certainly use Excel or Google Sheets if you'd prefer. This is **not** a statistics or econometrics class, so I do not expect you to have any statistics programming knowledge.
 
