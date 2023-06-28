@@ -101,7 +101,7 @@ Any form of sexual harassment or violence will not be excused or tolerated at Em
 
 ## Assignments and grades
 
-Detailed descriptions of all assignments are on the [assignments page](/assignment/). Each assignment will contribute to your final grade as described below.
+Detailed descriptions of all assignments are on the [assignments](/assignments/) page. Each assignment will contribute to your final grade as described below.
 
 ```{r assignments-grades, include=FALSE}
 library(dplyr)
