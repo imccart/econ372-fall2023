@@ -4,6 +4,8 @@ toc: false
 body-width: 1200px
 ---
 
+Below is a breakdown of topics for each class day this semester. Assignments are also listed according to their due dates. The associated links take you to additional information relevant for that day or for that assignment. The **Details** link provides specific objectives, activities, and supplemental materials for that day; the **Main Reading** link takes you to the relevant chapter from our class textbook; the **Slides** link takes you to the relevant slides for that day; and the **Assignment** link takes you to the relevant details for each assignment. Note that the main readings are all from the book I'm currently writing, so that content closely matches the slides.
+
 ## Module 0: Welcome to the Class!
 
 | Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment  |
