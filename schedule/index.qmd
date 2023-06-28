@@ -10,7 +10,7 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment  |
 |:-----:|------------|---------------------------------------------|:-------:|:------------:|:------:|:-----------:|
-|  1    | 8/23       | **Motivation**                              | [{{< fa magnifying-glass  >}}](/schedule/class-01.html)  | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/) |  |  |
+|  1    | 8/23       | **Motivation**                              | [{{< fa-thin magnifying-glass  >}}](/schedule/class-01.html)  | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/) |  |  |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
