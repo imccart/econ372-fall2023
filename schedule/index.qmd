@@ -18,15 +18,15 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
-|  2    | 8/28       | **Basics of Health Insurance Contracts**    | [{{< fa book >}}](/schedule/class-02.html)   |
-|  3    | 8/30       | **Private Health Insurance**                | [{{< fa book >}}](/schedule/class-03.html)   |
-|  4    | 9/6        | **Public Health Insurance**                 | [{{< fa book >}}](/schedule/class-04.html)   |
-|       | 9/8        | **Project: Stage 1**                        |    |
-|  5    | 9/11       | **Risk Premiums**                           | [{{< fa book >}}](/schedule/class-05.html) |
-|  6    | 9/13       | **Willingness to Pay**                      | [{{< fa book >}}](/schedule/class-06.html) |
-|  7    | 9/18       | **Adverse Selection and Pricing**           | [{{< fa book >}}](/schedule/class-07.html) |
-|  8    | 9/20       | **Health Insurance Competition**            | [{{< fa book >}}](/schedule/class-08.html) |
-|       | 9/22       | **Homework 1**                              |    |
+|  2    | 8/28       | **Basics of Health Insurance Contracts**    | [{{< fa magnifying-glass >}}](/schedule/class-02.html)   |
+|  3    | 8/30       | **Private Health Insurance**                | [{{< fa magnifying-glass >}}](/schedule/class-03.html)   |
+|  4    | 9/6        | **Public Health Insurance**                 | [{{< fa magnifying-glass >}}](/schedule/class-04.html)   |
+|       | 9/8        | **Project: Stage 1**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
+|  5    | 9/11       | **Risk Premiums**                           | [{{< fa magnifying-glass >}}](/schedule/class-05.html) |
+|  6    | 9/13       | **Willingness to Pay**                      | [{{< fa magnifying-glass >}}](/schedule/class-06.html) |
+|  7    | 9/18       | **Adverse Selection and Pricing**           | [{{< fa magnifying-glass >}}](/schedule/class-07.html) |
+|  8    | 9/20       | **Health Insurance Competition**            | [{{< fa magnifying-glass >}}](/schedule/class-08.html) |
+|       | 9/22       | **Homework 1**                              | | | | [{{< fa pen  >}}](/assignments/homework1.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
@@ -34,13 +34,13 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
-|  9    | 9/25        | **Basics of Health Care Delivery**          | [{{< fa book >}}](/schedule/class-09.html)   |
-|  10   | 9/27        | **Physician Agency**                        | [{{< fa book >}}](/schedule/class-10.html) |
-|       | 9/29        | **Project: Stage 2**                        |    |
-|  11   | 10/2        | **Physician Agency with Fee-for-Service Payments**  | [{{< fa book >}}](/schedule/class-11.html) |
-|  12   | 10/4        | **Physician Agency with Capitated Payments** | [{{< fa book >}}](/schedule/class-12.html) |
-|  13   | 10/11       | **Organizational Structure**                 | [{{< fa book >}}](/schedule/class-13.html) |
-|       | 10/13       | **Homework 2**                               |    |
+|  9    | 9/25        | **Basics of Health Care Delivery**          | [{{< fa magnifying-glass >}}](/schedule/class-09.html)   |
+|  10   | 9/27        | **Physician Agency**                        | [{{< fa magnifying-glass >}}](/schedule/class-10.html) |
+|       | 9/29        | **Project: Stage 2**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
+|  11   | 10/2        | **Physician Agency with Fee-for-Service Payments**  | [{{< fa magnifying-glass >}}](/schedule/class-11.html) |
+|  12   | 10/4        | **Physician Agency with Capitated Payments** | [{{< fa magnifying-glass >}}](/schedule/class-12.html) |
+|  13   | 10/11       | **Organizational Structure**                 | [{{< fa magnifying-glass >}}](/schedule/class-13.html) |
+|       | 10/13       | **Homework 2**                               | | | | [{{< fa pen  >}}](/assignments/homework2.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
@@ -48,8 +48,8 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
-|  14   | 10/16       | **Exam Review**                             |   |
-|  15   | 10/18       | **Mid-term Exam**                           |   |
+|  14   | 10/16       | **Exam Review**                             | | | | [{{< fa pen  >}}](/assignments/exam1.html) |
+|  15   | 10/18       | **Mid-term Exam**                           | | | | [{{< fa pen  >}}](/assignments/exam1.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
@@ -57,14 +57,14 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
-| 16    | 10/23       | **History of U.S. Hospitals**               | [{{< fa book >}}](/schedule/class-16.html) |
-| 17    | 10/25       | **Hospital Objective Functions**            | [{{< fa book >}}](/schedule/class-17.html) |
-| 18    | 10/30       | **Pricing in Monopolistic Competition**     | [{{< fa book >}}](/schedule/class-18.html) |
-| 19    | 11/1        | **Two-price Market**                        | [{{< fa book >}}](/schedule/class-19.html) |
-|       | 11/3        | **Project: Stage 3**                        |    |
-| 20    | 11/6        | **Bargaining**                              | [{{< fa book >}}](/schedule/class-20.html) |
-| 21    | 11/8        | **Mergers and Closures**                    | [{{< fa book >}}](/schedule/class-21.html) |
-|       | 11/10       | **Homework 3**                              |    |
+| 16    | 10/23       | **History of U.S. Hospitals**               | [{{< fa magnifying-glass >}}](/schedule/class-16.html) |
+| 17    | 10/25       | **Hospital Objective Functions**            | [{{< fa magnifying-glass >}}](/schedule/class-17.html) |
+| 18    | 10/30       | **Pricing in Monopolistic Competition**     | [{{< fa magnifying-glass >}}](/schedule/class-18.html) |
+| 19    | 11/1        | **Two-price Market**                        | [{{< fa magnifying-glass >}}](/schedule/class-19.html) |
+|       | 11/3        | **Project: Stage 3**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
+| 20    | 11/6        | **Bargaining**                              | [{{< fa magnifying-glass >}}](/schedule/class-20.html) |
+| 21    | 11/8        | **Mergers and Closures**                    | [{{< fa magnifying-glass >}}](/schedule/class-21.html) |
+|       | 11/10       | **Homework 3**                              | | | | [{{< fa pen  >}}](/assignments/homework3.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
@@ -72,10 +72,10 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
-|  22    | 11/13  | **Basics of Prescription Drugs**        | [{{< fa book >}}](/schedule/class-22.html) |
-|  23    | 11/15  | **Drug Pricing**                        | [{{< fa book >}}](/schedule/class-23.html) |
-|  24    | 11/20  | **Innovation**                          | [{{< fa book >}}](/schedule/class-24.html) |
-|  25    | 11/27  | **Competition**                         | [{{< fa book >}}](/schedule/class-25.html) |
+|  22    | 11/13  | **Basics of Prescription Drugs**        | [{{< fa magnifying-glass >}}](/schedule/class-22.html) |
+|  23    | 11/15  | **Drug Pricing**                        | [{{< fa magnifying-glass >}}](/schedule/class-23.html) |
+|  24    | 11/20  | **Innovation**                          | [{{< fa magnifying-glass >}}](/schedule/class-24.html) |
+|  25    | 11/27  | **Competition**                         | [{{< fa magnifying-glass >}}](/schedule/class-25.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
@@ -83,7 +83,7 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
-|  26-27 | 11/29-12/4   | **Project: Stages 4-5**     |   |
+|  26-27 | 11/29-12/4   | **Project: Stages 4-5**     | | | | [{{< fa pen  >}}](/assignments/project.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
