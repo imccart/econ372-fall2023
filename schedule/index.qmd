@@ -20,7 +20,7 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
-|  2    | 8/28       | Basics of Health Insurance Contracts        | [{{< fa magnifying-glass >}}](/schedule/class-02.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/insurance-01.html) | | 
+|  2    | 8/28       | Basics of Health Insurance Contracts        | [{{< fa magnifying-glass >}}](/schedule/class-02.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-01.html) | | 
 |  3    | 8/30       | **Private Health Insurance**                | [{{< fa magnifying-glass >}}](/schedule/class-03.html)   |
 |  4    | 9/6        | **Public Health Insurance**                 | [{{< fa magnifying-glass >}}](/schedule/class-04.html)   |
 | {{< fa star >}}      | 9/8        | **Project: Stage 1**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
