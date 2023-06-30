@@ -196,6 +196,13 @@
     "text": "Course Details\n 8-23-2023 to 12-5-2023  Monday & Wednesday  10:00am to 11:15am  White Hall 102"
   },
   {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here are a few additional resources that you may find helpful throughout the semester. The first is a math practice/review sheet. This is a good way to assess how comfortable you will be with much of the math this semester. If you can complete the review sheet easily, then you should be in good shape for the class. I’ll also include all of our class worksheets on this resources page, so that they are all accessible in one place. Finally, this is where I’ll house any exam review sheets or similar supplemental material throughout the semester.\nBelow is a short list of additional resources and links that I will reference at different points throughout the semester:\n\nHow to read an academic article. We will review and discuss a few academic articles throughout the semester, and you will be asked to do this independently as part of your mid-term exam and your final project.\nSome resources for honing your data analysis skills in R:\n\nR for Data Science by Hadley Wickham and Garrett Grolemund. This is the go-to resource for starting to work with R. Highly recommended, free, and informative.\nR Language Basics by Grant McDermott\nData cleaning and wrangling in R by Grant McDermott\nStruggling with Data by Ian McCarthy"
+  },
+  {
     "objectID": "schedule/class-01.html",
     "href": "schedule/class-01.html",
     "title": "Class 1: Motivation",
@@ -217,11 +224,95 @@
     "text": "Activities\n\nClass discussion\nReview the syllabus, schedule, and assignments pages for this class…just to get a feel for the site and how to navigate all of the information.\nComplete the Math Review and Practice Problems"
   },
   {
-    "objectID": "schedule/class-01.html#supplemental-info",
-    "href": "schedule/class-01.html#supplemental-info",
-    "title": "Motivation",
-    "section": "Supplemental Info",
-    "text": "Supplemental Info\n\n Additonal readings: These articles are more of a guide for the semester. We’ll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.\n\n(Arrow 1963). Link to paper here.\n(Gaynor, Ho, and Town 2015). Link to paper here.\n\n Bonus stuff for those really interested:\n\nData from Gapminder\nHealthcare triage videos: The Healthcare System of the United States and Why Does the US Spend So Much On Healthcare?\nTime, 2013. Bitter Pill: Why Medical Bills are Killing Us\nForbes, 2018. Healthcare: It’s the prices, stupid. Isn’t it?\nBlog, Random Critical Analysis, November 2018. “Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith.”"
+    "objectID": "schedule/class-01.html#other-resources",
+    "href": "schedule/class-01.html#other-resources",
+    "title": "Class 1: Motivation",
+    "section": "Other Resources",
+    "text": "Other Resources\n\n(Arrow 1963). Link to paper here.\nData from Gapminder\nHealthcare triage videos: The Healthcare System of the United States and Why Does the US Spend So Much On Healthcare?\nTime, 2013. Bitter Pill: Why Medical Bills are Killing Us\nForbes, 2018. Healthcare: It’s the prices, stupid. Isn’t it?\nBlog, Random Critical Analysis, November 2018. “Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith.”\nNew report on U.S. health care: U.S. Health Care from a Global Perspective"
+  },
+  {
+    "objectID": "schedule/class-02.html",
+    "href": "schedule/class-02.html",
+    "title": "Class 2: Basics of Health Insurance Contracts",
+    "section": "",
+    "text": "Define and explain key health insurance terms like networks, deductibles, copays, and coinsurance\nDescribe the differences between MCOs and PPOs"
+  },
+  {
+    "objectID": "schedule/class-02.html#objectives",
+    "href": "schedule/class-02.html#objectives",
+    "title": "Class 2: Basics of Health Insurance Contracts",
+    "section": "",
+    "text": "Define and explain key health insurance terms like networks, deductibles, copays, and coinsurance\nDescribe the differences between MCOs and PPOs"
+  },
+  {
+    "objectID": "schedule/class-02.html#activities",
+    "href": "schedule/class-02.html#activities",
+    "title": "Class 2: Basics of Health Insurance Contracts",
+    "section": "Activities",
+    "text": "Activities\n\nClass discussion of insurance terminology\nSelect a health insurance plan from Emory’s plan options\nComplete the Math Review and Practice Problems"
+  },
+  {
+    "objectID": "schedule/class-02.html#other-resources",
+    "href": "schedule/class-02.html#other-resources",
+    "title": "Class 2: Basics of Health Insurance Contracts",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nHealth insurance primer. Video from the Kahn Academy.\nPrivate Health Insurance: A Primer from the Congressional Research Office"
+  },
+  {
+    "objectID": "schedule/class-03.html",
+    "href": "schedule/class-03.html",
+    "title": "Class 3: Private Health Insurance",
+    "section": "",
+    "text": "Explain the history of private health insurance in the U.S.\nList two historical events that help explain the reliance on employer sponsored insurance in the U.S."
+  },
+  {
+    "objectID": "schedule/class-03.html#objectives",
+    "href": "schedule/class-03.html#objectives",
+    "title": "Class 3: Private Health Insurance",
+    "section": "",
+    "text": "Explain the history of private health insurance in the U.S.\nList two historical events that help explain the reliance on employer sponsored insurance in the U.S."
+  },
+  {
+    "objectID": "schedule/class-03.html#activities",
+    "href": "schedule/class-03.html#activities",
+    "title": "Class 3: Private Health Insurance",
+    "section": "Activities",
+    "text": "Activities\n\nClass discussion of employer-sponsored and non-group health insurance\nFirst check-in on Canvas"
+  },
+  {
+    "objectID": "schedule/class-03.html#other-resources",
+    "href": "schedule/class-03.html#other-resources",
+    "title": "Class 3: Private Health Insurance",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nHow Private Insurance Works: A Primer from the Kaiser Family Foundation"
+  },
+  {
+    "objectID": "schedule/class-04.html",
+    "href": "schedule/class-04.html",
+    "title": "Class 4: Public Health Insurance",
+    "section": "",
+    "text": "Explain Medicare, Medicare Advantage, Medicaid, and Medicaid Managed Care\nDescribe risk adjustment"
+  },
+  {
+    "objectID": "schedule/class-04.html#objectives",
+    "href": "schedule/class-04.html#objectives",
+    "title": "Class 4: Public Health Insurance",
+    "section": "",
+    "text": "Explain Medicare, Medicare Advantage, Medicaid, and Medicaid Managed Care\nDescribe risk adjustment"
+  },
+  {
+    "objectID": "schedule/class-04.html#activities",
+    "href": "schedule/class-04.html#activities",
+    "title": "Class 4: Public Health Insurance",
+    "section": "Activities",
+    "text": "Activities\n\nClass discussion of public insurance programs in the U.S.\nSelect a Medicare Advantage plan"
+  },
+  {
+    "objectID": "schedule/class-04.html#other-resources",
+    "href": "schedule/class-04.html#other-resources",
+    "title": "Class 4: Public Health Insurance",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nAll About Medicare, Podcast\nAll Aboud Medicaid, Podcast\nHealthcare Triage, Pay for Performance\nNEJM Report, What is Pay for Performance\nKaiser Family Foundation, February 2017, “High-Risk Pools for Uninsurable Individuals”\nHealth Affairs article related to adverse selection, August 2020, “Costs are Higher for Marketplace Members who Enroll during Special Enrollment Periods Compared with Open Enrollment”\nESPN, January 2019, “A New Threat: An Evaporating Insurance Market”\nNPR, December 2018, “Short-Term Health Plans Boost Profits for Brokers and Insurers.”\nCommonwealth Fund, July 2018, “The Effect of Eliminating the Individual Mandate Penalty.”"
   },
   {
     "objectID": "schedule/index.html",
@@ -320,96 +411,5 @@
     "title": "Syllabus",
     "section": "Assignments and grades",
     "text": "Assignments and grades\nDetailed descriptions of all assignments are on the assignments page. Each assignment will contribute to your final grade as described below.\n\n\n\n\n\n\n\n\n\nAssignment\nPoints\nPercent\n\n\n\n\nParticipation\n10\n2.5%\n\n\nHomework (60 x 3)\n180\n45.0%\n\n\nMid-term exam\n60\n15.0%\n\n\nFinal project\n150\n37.5%\n\n\n\n\nYour final percentage grade comes from your total points as a percent of all possible points available in the class (400). That percent then translates to a letter grade as follows:\n\n\n\n\n\n\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93-100%\nC\n73-76%\n\n\nA-\n90-92%\nC-\n70-72%\n\n\nB+\n87-89%\nD+\n67-69%\n\n\nB\n83-86%\nD\n63-66%\n\n\nB-\n80-82%\nD-\n60-62%\n\n\nC+\n77-79%\nF\n&lt; 60%"
-  },
-  {
-    "objectID": "schedule/class-01.html#other-resources",
-    "href": "schedule/class-01.html#other-resources",
-    "title": "Class 1: Motivation",
-    "section": "Other Resources",
-    "text": "Other Resources\n\n(Arrow 1963). Link to paper here.\nData from Gapminder\nHealthcare triage videos: The Healthcare System of the United States and Why Does the US Spend So Much On Healthcare?\nTime, 2013. Bitter Pill: Why Medical Bills are Killing Us\nForbes, 2018. Healthcare: It’s the prices, stupid. Isn’t it?\nBlog, Random Critical Analysis, November 2018. “Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith.”\nNew report on U.S. health care: U.S. Health Care from a Global Perspective"
-  },
-  {
-    "objectID": "schedule/class-02.html",
-    "href": "schedule/class-02.html",
-    "title": "Class 2: Basics of Health Insurance Contracts",
-    "section": "",
-    "text": "Define and explain key health insurance terms like networks, deductibles, copays, and coinsurance\nDescribe the differences between MCOs and PPOs"
-  },
-  {
-    "objectID": "schedule/class-02.html#objectives",
-    "href": "schedule/class-02.html#objectives",
-    "title": "Class 2: Basics of Health Insurance Contracts",
-    "section": "",
-    "text": "Define and explain key health insurance terms like networks, deductibles, copays, and coinsurance\nDescribe the differences between MCOs and PPOs"
-  },
-  {
-    "objectID": "schedule/class-02.html#activities",
-    "href": "schedule/class-02.html#activities",
-    "title": "Class 2: Basics of Health Insurance Contracts",
-    "section": "Activities",
-    "text": "Activities\n\nClass discussion of insurance terminology\nSelect a health insurance plan from Emory’s plan options\nComplete the Math Review and Practice Problems"
-  },
-  {
-    "objectID": "schedule/class-02.html#other-resources",
-    "href": "schedule/class-02.html#other-resources",
-    "title": "Class 2: Basics of Health Insurance Contracts",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nHealth insurance primer. Video from the Kahn Academy.\nPrivate Health Insurance: A Primer from the Congressional Research Office"
-  },
-  {
-    "objectID": "schedule/class-03.html",
-    "href": "schedule/class-03.html",
-    "title": "Class 3: Private Health Insurance",
-    "section": "",
-    "text": "Explain the history of private health insurance in the U.S.\nList two historical events that help explain the reliance on employer sponsored insurance in the U.S."
-  },
-  {
-    "objectID": "schedule/class-03.html#objectives",
-    "href": "schedule/class-03.html#objectives",
-    "title": "Class 3: Private Health Insurance",
-    "section": "",
-    "text": "Explain the history of private health insurance in the U.S.\nList two historical events that help explain the reliance on employer sponsored insurance in the U.S."
-  },
-  {
-    "objectID": "schedule/class-03.html#activities",
-    "href": "schedule/class-03.html#activities",
-    "title": "Class 3: Private Health Insurance",
-    "section": "Activities",
-    "text": "Activities\n\nClass discussion of employer-sponsored and non-group health insurance\nFirst check-in on Canvas"
-  },
-  {
-    "objectID": "schedule/class-03.html#other-resources",
-    "href": "schedule/class-03.html#other-resources",
-    "title": "Class 3: Private Health Insurance",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nHow Private Insurance Works: A Primer from the Kaiser Family Foundation"
-  },
-  {
-    "objectID": "schedule/class-04.html",
-    "href": "schedule/class-04.html",
-    "title": "Class 4: Public Health Insurance",
-    "section": "",
-    "text": "Explain Medicare, Medicare Advantage, Medicaid, and Medicaid Managed Care\nDescribe risk adjustment"
-  },
-  {
-    "objectID": "schedule/class-04.html#objectives",
-    "href": "schedule/class-04.html#objectives",
-    "title": "Class 4: Public Health Insurance",
-    "section": "",
-    "text": "Explain Medicare, Medicare Advantage, Medicaid, and Medicaid Managed Care\nDescribe risk adjustment"
-  },
-  {
-    "objectID": "schedule/class-04.html#activities",
-    "href": "schedule/class-04.html#activities",
-    "title": "Class 4: Public Health Insurance",
-    "section": "Activities",
-    "text": "Activities\n\nClass discussion of public insurance programs in the U.S.\nSelect a Medicare Advantage plan"
-  },
-  {
-    "objectID": "schedule/class-04.html#other-resources",
-    "href": "schedule/class-04.html#other-resources",
-    "title": "Class 4: Public Health Insurance",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nAll About Medicare, Podcast\nAll Aboud Medicaid, Podcast\nHealthcare Triage, Pay for Performance\nNEJM Report, What is Pay for Performance\nKaiser Family Foundation, February 2017, “High-Risk Pools for Uninsurable Individuals”\nHealth Affairs article related to adverse selection, August 2020, “Costs are Higher for Marketplace Members who Enroll during Special Enrollment Periods Compared with Open Enrollment”\nESPN, January 2019, “A New Threat: An Evaporating Insurance Market”\nNPR, December 2018, “Short-Term Health Plans Boost Profits for Brokers and Insurers.”\nCommonwealth Fund, July 2018, “The Effect of Eliminating the Individual Mandate Penalty.”"
   }
 ]

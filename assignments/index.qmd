@@ -19,7 +19,7 @@ Each homework assignment is worth 60 points toward your final grade, consisting 
 
 All of the homework assignments have both a "theoretical" section and an "empirical" section. The empirical work is intended to meet two requirements: 1) it must be accessible and achievable for someone without a background in data analysis; and 2) it must involve real-world data. These two objectives are somewhat conflicting, but I've done my best to pre-clean the data so that things are simple on your end. 
 
-The empirical part of the assignments can be completed in any data software, including Excel. I also provide the data in `R` format if you're familiar with that language. If you'd like a refresher on `R` or would like to give it a shot from scratch, take a look at some of the links on our [resources](/resource/) page.
+The empirical part of the assignments can be completed in any data software, including Excel. I also provide the data in `R` format if you're familiar with that language. If you'd like a refresher on `R` or would like to give it a shot from scratch, take a look at some of the links on our [resources](/resources/) page.
 
 ## Exam
 We only have one exam this semester, and it will cover content from Modules 1 and 2. The exam is worth 60 points toward your final grade. Please see the [Mid-term Exam](/assignment/exam1/) page for more details. 
