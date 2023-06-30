@@ -1,14 +1,5 @@
 ---
-title: "Calculus Practice Problems"
-linktitle: "Practice problems"
-output:
-  blogdown::html_page:
-    toc: false
-menu:
-  resource:
-    parent: Math Review
-    weight: 2
-type: docs
+title: "Calculus Practice"
 ---
 
 Below are just some review questions. If you can answer all of these without much trouble, then you should be in good shape in terms of the math requirements for the class.
