@@ -29,7 +29,7 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 |  7    | 9/18       | **Adverse Selection and Pricing**           | [{{< fa magnifying-glass >}}](/schedule/class-07.html) |
 |  8    | 9/20       | **Health Insurance Competition**            | [{{< fa magnifying-glass >}}](/schedule/class-08.html) |
 |       | 9/22       | **Homework 1**                              | | | | [{{< fa pen  >}}](/assignments/homework1.html) |
-: {tbl-colwidths="\[7,10,45,8,10,10,10\]"}
+: {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
 
 ## Module 2: Physician Agency and Treatment Decisions
