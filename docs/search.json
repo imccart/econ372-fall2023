@@ -280,6 +280,27 @@
     "text": "Partial derivatives\nIf \\(y=f(x,z)\\), then we may want to know how changes in one of the independent variables affects the outcome while holding the remaining independent variables constant. This is what a partial derivative does. Essentially, you take the usual derivative, treating all of the other variables as constants. So all of the rules above apply here as well. For example, say we have \\(y=3x^{2} + xz + 4z^{2}\\), then \\[\\frac{\\partial y}{\\partial x} = 6x + z,\\] and \\[\\frac{\\partial y}{\\partial z} = x + 8z.\\]"
   },
   {
+    "objectID": "resources/review2.html",
+    "href": "resources/review2.html",
+    "title": "Calculus Practice",
+    "section": "",
+    "text": "Below are just some review questions. If you can answer all of these without much trouble, then you should be in good shape in terms of the math requirements for the class."
+  },
+  {
+    "objectID": "resources/review2.html#basic-derivatives",
+    "href": "resources/review2.html#basic-derivatives",
+    "title": "Calculus Practice",
+    "section": "Basic derivatives",
+    "text": "Basic derivatives\nFind the derivative of the following functions\n\nQuestions\n\n\\(f(x)=3x^{9}\\)\n\\(f(x)=5x^{-2}\\)\n\\(f(x)=5x + 5x^{2}\\)\n\\(f(x)=(\\frac{1}{2}x - 4x^{2})^{2}\\)\n\n\n\nAnswers\n\n\\(f'(x) = 27x^{8}\\)\n\\(f'(x) = -10x^{-3}\\)\n\\(f'(x) = 5 + 10x\\)\n\\(f'(x) = 2 ( \\frac{1}{2}x - 4x^{2})(\\frac{1}{2} - 8x)\\)"
+  },
+  {
+    "objectID": "resources/review2.html#demand-profits-and-production",
+    "href": "resources/review2.html#demand-profits-and-production",
+    "title": "Calculus Practice",
+    "section": "Demand, profits, and production",
+    "text": "Demand, profits, and production\n\nQuestions\n\nIf inverse demand is given by , \\(P=80-Q\\), what is marginal revenue?\nIf a firm’s profit function is \\(\\pi = (80-Q)Q - 10Q\\), what quantity will maximize the firm’s profit? What is the price at this level of \\(Q\\) (hint: inverse demand is the same as in part 1)?\nThe production function is of the Cobb-Douglas form, \\(Q=AL^{\\alpha} K^{1-\\alpha}\\), where \\(A\\) and \\(\\alpha\\) are constants. What are the marginal products of labor (\\(L\\)) and capital (\\(K\\))?\n\n\n\nAnswers\n\nNote that total revenue is \\((80-Q)Q\\), so marginal revenue is \\(80-2Q\\).\nTo find the optimal \\(Q\\), we need to differentiate, set equal to 0, then solve for \\(Q\\). In this case, \\(\\pi'(Q) = 80 - 2Q - 10\\), which equals 0 for \\(Q=35\\). Price at this quantity is \\(P=80-Q=45\\).\nThe marginal product of labor or capital is just the partial derivative of each of those terms. So, \\[MP_{L} = \\frac{\\partial Q}{\\partial L} = \\alpha A L^{\\alpha-1} K^{1-\\alpha} = \\alpha A \\left(\\frac{K}{L}\\right)^{1-\\alpha}\\] and \\[MP_{K} = \\frac{\\partial Q}{\\partial K} = (1-\\alpha) A L^{\\alpha} K^{-\\alpha} = (1-\\alpha) A \\left( \\frac{L}{K} \\right)^{\\alpha}.\\]"
+  },
+  {
     "objectID": "schedule/class-01.html",
     "href": "schedule/class-01.html",
     "title": "Class 1: Motivation",
@@ -488,26 +509,5 @@
     "title": "Syllabus",
     "section": "Assignments and grades",
     "text": "Assignments and grades\nDetailed descriptions of all assignments are on the assignments page. Each assignment will contribute to your final grade as described below.\n\n\n\n\n\n\n\n\n\nAssignment\nPoints\nPercent\n\n\n\n\nParticipation\n10\n2.5%\n\n\nHomework (60 x 3)\n180\n45.0%\n\n\nMid-term exam\n60\n15.0%\n\n\nFinal project\n150\n37.5%\n\n\n\n\nYour final percentage grade comes from your total points as a percent of all possible points available in the class (400). That percent then translates to a letter grade as follows:\n\n\n\n\n\n\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93-100%\nC\n73-76%\n\n\nA-\n90-92%\nC-\n70-72%\n\n\nB+\n87-89%\nD+\n67-69%\n\n\nB\n83-86%\nD\n63-66%\n\n\nB-\n80-82%\nD-\n60-62%\n\n\nC+\n77-79%\nF\n&lt; 60%"
-  },
-  {
-    "objectID": "resources/review2.html",
-    "href": "resources/review2.html",
-    "title": "Calculus Practice",
-    "section": "",
-    "text": "Below are just some review questions. If you can answer all of these without much trouble, then you should be in good shape in terms of the math requirements for the class."
-  },
-  {
-    "objectID": "resources/review2.html#basic-derivatives",
-    "href": "resources/review2.html#basic-derivatives",
-    "title": "Calculus Practice",
-    "section": "Basic derivatives",
-    "text": "Basic derivatives\nFind the derivative of the following functions\n\nQuestions\n\n\\(f(x)=3x^{9}\\)\n\\(f(x)=5x^{-2}\\)\n\\(f(x)=5x + 5x^{2}\\)\n\\(f(x)=(\\frac{1}{2}x - 4x^{2})^{2}\\)\n\n\n\nAnswers\n\n\\(f'(x) = 27x^{8}\\)\n\\(f'(x) = -10x^{-3}\\)\n\\(f'(x) = 5 + 10x\\)\n\\(f'(x) = 2 ( \\frac{1}{2}x - 4x^{2})(\\frac{1}{2} - 8x)\\)"
-  },
-  {
-    "objectID": "resources/review2.html#demand-profits-and-production",
-    "href": "resources/review2.html#demand-profits-and-production",
-    "title": "Calculus Practice",
-    "section": "Demand, profits, and production",
-    "text": "Demand, profits, and production\n\nQuestions\n\nIf inverse demand is given by , \\(P=80-Q\\), what is marginal revenue?\nIf a firm’s profit function is \\(\\pi = (80-Q)Q - 10Q\\), what quantity will maximize the firm’s profit? What is the price at this level of \\(Q\\) (hint: inverse demand is the same as in part 1)?\nThe production function is of the Cobb-Douglas form, \\(Q=AL^{\\alpha} K^{1-\\alpha}\\), where \\(A\\) and \\(\\alpha\\) are constants. What are the marginal products of labor (\\(L\\)) and capital (\\(K\\))?\n\n\n\nAnswers\n\nNote that total revenue is \\((80-Q)Q\\), so marginal revenue is \\(80-2Q\\).\nTo find the optimal \\(Q\\), we need to differentiate, set equal to 0, then solve for \\(Q\\). In this case, \\(\\pi'(Q) = 80 - 2Q - 10\\), which equals 0 for \\(Q=35\\). Price at this quantity is \\(P=80-Q=45\\).\nThe marginal product of labor or capital is just the partial derivative of each of those terms. So, \\[MP_{L} = \\frac{\\partial Q}{\\partial L} = \\alpha A L^{\\alpha-1} K^{1-\\alpha} = \\alpha A \\left(\\frac{K}{L}\\right)^{1-\\alpha}\\] and \\[MP_{K} = \\frac{\\partial Q}{\\partial K} = (1-\\alpha) A L^{\\alpha} K^{-\\alpha} = (1-\\alpha) A \\left( \\frac{L}{K} \\right)^{\\alpha}.\\]"
   }
 ]
