@@ -70,6 +70,18 @@ website:
       background: dark
       contents:
         - resources/index.qmd
+        - resources/review1.qmd
+        - resources/review2.qmd
+        - resources/exam-review1.qmd
+        - resources/wksheet1.qmd
+        - resources/wksheet2.qmd
+        - resources/wksheet3.qmd
+        - resources/wksheet4.qmd
+        - resources/wksheet5.qmd
+        - resources/wksheet6.qmd
+        - resources/wksheet7.qmd
+        - resources/wksheet8.qmd
+        - resources/wksheet9.qmd
 
 
   page-footer:
