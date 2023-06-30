@@ -1,5 +1,5 @@
 ---
-title: "Introduction to U.S. Health Care"
+title: "Motivation"
 ---
 
 ## Objectives
@@ -10,10 +10,7 @@ title: "Introduction to U.S. Health Care"
 
 ## Activities 
 - Review the [syllabus](/syllabus.html), [schedule](/schedule.html), and [assignments](/assignments.html) pages for this class...just to get a feel for the site and how to navigate all of the information.
-- Discussion of U.S. health care expenditures and quality
-- Overview of class and introductions
-- Complete the [Math Review](/resource/review1) and [Practice Problems](/resource/review2)
-
+- Complete the [Math Review](/resources/review1.html) and [Practice Problems](/resources/review2.html)
 
 ## Supplemental Info
 - <i class="fas fa-book"></i> These articles are more of a guide for the semester. We'll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.
