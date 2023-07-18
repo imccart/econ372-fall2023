@@ -27,7 +27,7 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 |  5    | 9/11       | Understanding Risk                      | [{{< fa magnifying-glass >}}](/schedule/class-05.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-04.html) | | 
 |  6    | 9/13       |  Risk Premium and WTP                      | [{{< fa magnifying-glass >}}](/schedule/class-06.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-3.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-05.html) | | 
 |  7    | 9/18       | Adverse Selection and Pricing           | [{{< fa magnifying-glass >}}](/schedule/class-07.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-06.html) | | 
-|  8    | 9/20       | **Health Insurance Competition**            | [{{< fa magnifying-glass >}}](/schedule/class-08.html) |
+|  8    | 9/20       | Health Insurance Competition            | [{{< fa magnifying-glass >}}](/schedule/class-08.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-07.html) | | 
 |       | 9/22       | **Homework 1**                              | | | | [{{< fa pen  >}}](/assignments/homework1.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
