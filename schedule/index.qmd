@@ -36,12 +36,12 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
-|  9    | 9/25        | **Basics of Health Care Delivery**          | [{{< fa magnifying-glass >}}](/schedule/class-09.html)   |
-|  10   | 9/27        | **Physician Agency**                        | [{{< fa magnifying-glass >}}](/schedule/class-10.html) |
+|  9    | 9/25        | Physicians as Gatekeepers          | [{{< fa magnifying-glass >}}](/schedule/class-09.html)   | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/physicians-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-01.html) | | 
+|  10   | 9/27        | **A Model of Physician Agency**                        | [{{< fa magnifying-glass >}}](/schedule/class-10.html) |
 |       | 9/29        | **Project: Stage 2**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
-|  11   | 10/2        | **Physician Agency with Fee-for-Service Payments**  | [{{< fa magnifying-glass >}}](/schedule/class-11.html) |
-|  12   | 10/4        | **Physician Agency with Capitated Payments** | [{{< fa magnifying-glass >}}](/schedule/class-12.html) |
-|  13   | 10/11       | **Organizational Structure**                 | [{{< fa magnifying-glass >}}](/schedule/class-13.html) |
+|  11   | 10/2        | **Physician Agency and Payment Models**  | [{{< fa magnifying-glass >}}](/schedule/class-11.html) |
+|  12   | 10/4        | **Physician Training** | [{{< fa magnifying-glass >}}](/schedule/class-12.html) |
+|  13   | 10/11       | **Physician Learning**                 | [{{< fa magnifying-glass >}}](/schedule/class-13.html) |
 |       | 10/13       | **Homework 2**                               | | | | [{{< fa pen  >}}](/assignments/homework2.html) |
 : {tbl-colwidths="\[5,10,45,10,10,10,10\]"}
 
