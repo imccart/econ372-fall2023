@@ -56,13 +56,9 @@ Use the tools of microeconomic theory and basic data analysis to understand insu
 
 Fall 2023<br>
 Department of Economics<br>
-Emory University
+Emory University<br>
+Follow the department on {{< fa brands twitter >}}[](https://twitter.com/emoryeconomics), {{< fa brands linkedin >}}[](https://www.linkedin.com/company/emory-university-department-of-economics), {{< fa brands facebook >}}[](https://www.facebook.com/EmoryEcon/), and {{< fa brands instagram >}}[](https://www.instagram.com/econemory/)
 
-:::
-
-::: {.text-secondary}
-
-Follow the department on {{fa brands twitter}}[\@emoryeconomics](https://twitter.com/emoryeconomics), {{fa brands linkedin}}[](https://www.linkedin.com/company/emory-university-department-of-economics), {{fa brands facebook}}[](https://www.facebook.com/EmoryEcon/), and {{fa brands instagram}}[](https://www.instagram.com/econemory/)
 
 :::
 
