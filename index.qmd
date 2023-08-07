@@ -1,7 +1,6 @@
 ---
 pagetitle: "Economics of Health Care Markets"
-details: "Hey"
-course-logo: "files/img/no-text@3x.png"
+details: " "
 page-layout: custom
 sidebar: false
 toc: false
@@ -60,6 +59,13 @@ Department of Economics<br>
 Emory University
 
 :::
+
+::: {.text-secondary}
+
+Follow the department on {{fa brands twitter}}[\@emoryeconomics](https://twitter.com/emoryeconomics), {{fa brands linkedin}}[](https://www.linkedin.com/company/emory-university-department-of-economics), {{fa brands facebook}}[](https://www.facebook.com/EmoryEcon/), and {{fa brands instagram}}[](https://www.instagram.com/econemory/)
+
+:::
+
 
 ---
 

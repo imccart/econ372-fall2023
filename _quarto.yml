@@ -22,8 +22,6 @@ website:
   title: "Econ 372: Economics of Health Care Markets"
   site-url: "https://econ372f23.classes.ianmccarthyecon.com/"
 
-  favicon: "/files/favicon.png"
-
   twitter-card:
     image: "/files/social-image-f22.png"
     card-style: summary_large_image
