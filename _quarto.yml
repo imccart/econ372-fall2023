@@ -80,6 +80,7 @@ website:
         - resources/wksheet7.qmd
         - resources/wksheet8.qmd
         - resources/wksheet9.qmd
+        - resources/wksheet10.qmd
 
 
   page-footer:
