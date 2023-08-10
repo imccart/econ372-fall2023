@@ -10,13 +10,7 @@ An individual starts with a wealth of \$100,000. With probability 0.3, they will
 
 The expected cost is the probability of being ill (0.3) times the cost of being ill (40,000)
 
-```{r}
-#| echo: false
-
-e.cost <- format(0.3*40000,digits=5,big.mark=",")
-```
-
-$E[cost]=0.3 \times 40,000 =$ `r e.cost`.
+$E[cost]=0.3 \times 40,000 =$ `r format(0.3*40000,digits=5,big.mark=",")`.
 
 
 ## Question 2:
