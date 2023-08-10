@@ -23,10 +23,13 @@ website:
   site-url: "https://econ372f23.classes.ianmccarthyecon.com/"
 
   twitter-card:
+    image: "/files/social-image-f22.png"
     card-style: summary_large_image
     creator: "@ianhealthecon"
+    # site: "@andrewheiss"
 
   open-graph:
+    image: "/files/social-image-f22.png"
     locale: en_US
 
   repo-url: "https://github.com/imccart/econ372-fall2023"
