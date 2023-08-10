@@ -712,5 +712,26 @@
     "title": "W6: Agency and Payment Type",
     "section": "Question 5:",
     "text": "Question 5:\nFind the physician’s optimal if \\(R=1\\) and \\(p_{s}-c=0\\).\nAgain substituting these values into he first order condition, we get \\((16-4x) = 0\\), or \\(x=4\\). So now the physician and patient optimal are the same value. Note that this is not a general solution…it only arises due to the linear patient function, \\(n(NB) = a*NB\\). For nonlinear functions, we won’t generally be able to easily obtain the same optimal values from the physician and patient’s perspective. Instead, \\(R&gt;0\\) will yield some amount of undertreatment as we saw in the general case in class."
+  },
+  {
+    "objectID": "resources/wksheet8.html",
+    "href": "resources/wksheet8.html",
+    "title": "W8: Unilateral Pricing",
+    "section": "",
+    "text": "Consider the firm’s inverse demand curve, \\(d=40-2q\\), and cost curve, \\(c(q)=5q+\\frac{1}{2}q^{2}\\)."
+  },
+  {
+    "objectID": "resources/wksheet8.html#question-1",
+    "href": "resources/wksheet8.html#question-1",
+    "title": "W8: Unilateral Pricing",
+    "section": "Question 1",
+    "text": "Question 1\nWhat is the firm’s profit maximizing price and quantity?\nTo solve this, we just need to maximize the firm’s profit with respect to quantity, \\(q\\). Then we substitute the optimal quantity into the demand function to find the optimal \\(p\\).\nThe profit function in this case is \\(\\pi=d(q)*q - c(q) = (40-2q)q - 5q - \\frac{1}{2}q^{2}\\). Differentiating and setting equal to 0 yields \\[-2q + 40 - 2q - 5 - q = -5q + 35 = 0.\\] This holds for \\(q=7\\).\nPlugging \\(q=7\\) into the demand function then yields \\(p=40-14=26\\). So the firm optimally sets a price of \\(p=26\\) and sells a quantity of \\(q=7\\)."
+  },
+  {
+    "objectID": "resources/wksheet8.html#question-2",
+    "href": "resources/wksheet8.html#question-2",
+    "title": "W8: Unilateral Pricing",
+    "section": "Question 2",
+    "text": "Question 2\nWhat is the firm’s markup over marginal cost?\nWe can find the marginal cost at \\(q=7\\) by plugging this quantity into the marginal cost function, \\(c'(q) = 5 + q = 12\\). Since the firm’s price is \\(p=26\\), we know the markup over marginal cost is 14. We usually think of this in percentage terms, where we calculate the markup relative to marginal cost, \\(\\frac{p-c}{c} = \\frac{14}{12}\\). So the markup is more than 100% of the cost."
   }
 ]
