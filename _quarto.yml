@@ -100,5 +100,3 @@ format:
       - html/custom.scss
     toc: true
     highlight-style: monokai
-    grid: 
-      sidebar-width: 350px 
