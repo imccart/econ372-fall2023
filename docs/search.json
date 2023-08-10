@@ -572,5 +572,40 @@
     "title": "W2: Insurance Demand",
     "section": "Question 4:",
     "text": "Question 4:\nExplain how these values differ and why. What might this say about the profitability of insurance in a market with many sick people?\nWe see from these examples that the risk premium is increasing as the amount of uncertainty increases. If people are more certain about being ill, then the risk premium is lower. This means that people are unwilling to pay much more than the expected cost of care, leaving less potential profit for insurers."
+  },
+  {
+    "objectID": "resources/wksheet3.html",
+    "href": "resources/wksheet3.html",
+    "title": "W3: Adverse Selection",
+    "section": "",
+    "text": "Assume that the insurer’s cost function is given by \\(C=100q - 2q^{2}\\), where \\(q\\) denotes the number of people enrolled in the plan. Further assume that the inverse demand function takes the form, \\(D=110 - 3q\\), and that there are 20 individuals total in this market."
+  },
+  {
+    "objectID": "resources/wksheet3.html#question-1",
+    "href": "resources/wksheet3.html#question-1",
+    "title": "W3: Adverse Selection",
+    "section": "Question 1:",
+    "text": "Question 1:\nIf the insurer enters the market at a price of $65, what is the insurer’s profit (or loss)?\nwe need to first calculate the marginal cost curve, \\(mc=100-4q\\), and the average cost curve, \\(ac=100-2q\\). At a price of \\(p=65\\), we know that quantity demanded will be \\(q=\\) 15. We can then calculate profit as just total revenue less total cost, \\(\\pi = TR - TC =\\) 975 - 1050 = -75."
+  },
+  {
+    "objectID": "resources/wksheet3.html#question-2",
+    "href": "resources/wksheet3.html#question-2",
+    "title": "W3: Adverse Selection",
+    "section": "Question 2:",
+    "text": "Question 2:\nWhat price does the insurer set next year if they set price equal to average cost in the prior year?\nAverage cost at \\(p=65\\) is 70. So this is next period’s price."
+  },
+  {
+    "objectID": "resources/wksheet3.html#question-3",
+    "href": "resources/wksheet3.html#question-3",
+    "title": "W3: Adverse Selection",
+    "section": "Question 3:",
+    "text": "Question 3:\nWhat is the equilibrium price in this market?\nThe equlibrium price is such that insurers earn zero profits (under our assumptions). We can find that price by finding the quantity such that \\(AC=p\\). This occurs at \\(110 - 3q = 100 - 2q\\), or \\(q=10\\). The price at this quantity is 80. Note that the zero profit condition isn’t necessary to find an equilibrium in this way. We could easily incorporate some minimum “profit” per person by increasing the per unit costs in the cost function."
+  },
+  {
+    "objectID": "resources/wksheet3.html#question-4",
+    "href": "resources/wksheet3.html#question-4",
+    "title": "W3: Adverse Selection",
+    "section": "Question 4:",
+    "text": "Question 4:\nWhat if there is a $10 penalty imposed for those that do not purchase health insurance?\nThe penalty will effectively shift the demand curve out, as each individual is now willing to spend $10 more on health insurance. The new demand curve is then \\(120 - 3q\\). Setting this equal to the average cost curve yields \\(q=20\\). So a $10 penalty facilitates full insurance in this market."
   }
 ]
