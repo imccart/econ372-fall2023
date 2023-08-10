@@ -642,5 +642,33 @@
     "title": "W4: Physician agency",
     "section": "Question 4:",
     "text": "Question 4:\nAdd the physician’s optimal \\(x\\) to your graph and interpret the difference.\n\n\n\n\n\nPatient and physician’s optimal point of care"
+  },
+  {
+    "objectID": "resources/wksheet5.html",
+    "href": "resources/wksheet5.html",
+    "title": "W5: Agency and Fixed Prices",
+    "section": "",
+    "text": "Assume \\(B(x)=4x^{1/2}\\), \\(NB^{0}=0\\), anc \\(c=1\\). Further assume that prices are fixed administratively at, \\(\\bar{p}=2\\). Note that, in this case, we work only off of the patient’s net benefit constraint."
+  },
+  {
+    "objectID": "resources/wksheet5.html#question-1",
+    "href": "resources/wksheet5.html#question-1",
+    "title": "W5: Agency and Fixed Prices",
+    "section": "Question 1:",
+    "text": "Question 1:\nWhat is the physician’s and patient’s optimal amount of care provided?\nThe physician maximizes profit, \\(\\pi = px - cx\\), subject to the constraint, \\(4x^{1/2} = px\\). Since \\(p\\) is fixed, the physician simply sets \\(x\\) as high as possible, which means they set \\(x\\) to the point where the constraint binds. With \\(p=2\\), this means \\(4x^{1/2} = 2x\\), and solving for \\(x\\) means \\(16x = 4x^{2} \\longrightarrow 16=4x \\longrightarrow x=4\\).\nThe patient cares about maximizing net benefit, \\(4x^{1/2} - 2x\\). This is maximized at \\(x\\) such that \\(2x^{-1/2}-2=0 \\longrightarrow x=1\\)."
+  },
+  {
+    "objectID": "resources/wksheet5.html#question-2",
+    "href": "resources/wksheet5.html#question-2",
+    "title": "W5: Agency and Fixed Prices",
+    "section": "Question 2:",
+    "text": "Question 2:\nThe government is considering increasing the price to \\(\\bar{p}=3\\). What are the new optimal levels of care for physicians and patients at this new price?\nAt this new price, the physician would choose \\(x\\) such that \\(4x^{1/2} = 3x \\longrightarrow 16x = 9x^{2} \\longrightarrow 16=9x \\longrightarrow x=\\frac{16}{9}\\). The patient would choose \\(x\\) such that \\(2x^{-1/2}-3=0 \\longrightarrow x=4/9\\)."
+  },
+  {
+    "objectID": "resources/wksheet5.html#question-3",
+    "href": "resources/wksheet5.html#question-3",
+    "title": "W5: Agency and Fixed Prices",
+    "section": "Question 3:",
+    "text": "Question 3:\nHow would the price change affect the difference between the patient and physician’s optimal amounts?\nFirst, note that the amount of care decreases as the administrative price increases (opposite of the standard supply curve). Similarly, the deviation between the patient and physician optimal amounts decreases."
   }
 ]

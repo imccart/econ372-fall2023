@@ -12,13 +12,13 @@ The physician maximizes profit, $\pi = px - cx$, subject to the constraint, $4x^
 
 The patient cares about maximizing net benefit, $4x^{1/2} - 2x$. This is maximized at $x$ such that $2x^{-1/2}-2=0 \longrightarrow x=1$. 
 
-### Question 2:
+## Question 2:
 **The government is considering increasing the price to $\bar{p}=3$. What are the new optimal levels of care for physicians and patients at this new price?**
 
 
 At this new price, the physician would choose $x$ such that $4x^{1/2} = 3x \longrightarrow 16x = 9x^{2} \longrightarrow 16=9x \longrightarrow x=\frac{16}{9}$. The patient would choose $x$ such that $2x^{-1/2}-3=0 \longrightarrow x=4/9$. 
 
-### Question 3:
+## Question 3:
 **How would the price change affect the difference between the patient and physician's optimal amounts?**
 
 
