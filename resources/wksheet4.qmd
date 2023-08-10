@@ -1,5 +1,5 @@
 ---
-title: "W4: Physician agency"
+title: "W4: Physician Agency"
 ---
 
 Denote the quantity of care consumed by $x$, and denote by $B(x)$ the function that determinesthe benefit of care to the patient. Assume that the patient must pay the full price of care, $px$,  so that their net benefit is $NB=B(x)−px$.  
