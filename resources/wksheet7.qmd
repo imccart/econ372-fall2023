@@ -4,7 +4,7 @@ title: "W7: Physician Learning"
 
 Two physicians are considering adopting a new medical technology and are trying to determine its effectiveness, denoted $\theta$. Both physicians are aware of a new clinical trial in which 70 out of 100 patients showed clinical improvement in their symptoms following treatment. The other 30 patients showed no meaningful improvement. 
 
-Physician 1 has no strong opinion for or against the new treatment and maintains a uniform prior, $P(\theta) \sim Beta(\alpha_{0}=1, \beta_{0}=1)$. Physician 2 is highly skeptical of the new treatment and favors their current practice style, with a prior belief reflected by $P(\theta) \sim Beta(\alpha_{0}=0.01, \beta_{0}=100).
+Physician 1 has no strong opinion for or against the new treatment and maintains a uniform prior, $P(\theta) \sim Beta(\alpha_{0}=1, \beta_{0}=1)$. Physician 2 is highly skeptical of the new treatment and favors their current practice style, with a prior belief reflected by $P(\theta) \sim Beta(\alpha_{0}=0.01, \beta_{0}=100)$.
 
 ## Question 1
 **Find Physician 1's updated belief as to the mean effectiveness of the new treatment**

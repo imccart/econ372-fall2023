@@ -50,7 +50,7 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Main Reading | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
-|  14   | 10/16       | **Exam Review**                             | | | | [{{< fa pen  >}}](/assignments/exam1.html) |
+|  14   | 10/16       | Exam Review                                 | | | | [{{< fa pen  >}}](/resources/exam-review1.html) |
 |  15   | 10/18       | **Mid-term Exam**                           | | | | [{{< fa pen  >}}](/assignments/exam1.html) |
 : {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
 
