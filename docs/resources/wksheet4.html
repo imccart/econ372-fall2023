@@ -8,7 +8,7 @@
 
 <meta name="description" content="Course on the Economics of Health Care Markets at Emory University">
 
-<title>Econ 372: Economics of Health Care Markets - W2: Insurance Demand</title>
+<title>Econ 372: Economics of Health Care Markets - W4: Physician agency</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../resources/wksheet3.html" rel="next">
-<link href="../resources/wksheet1.html" rel="prev">
+<link href="../resources/wksheet3.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,14 +65,14 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Econ 372: Economics of Health Care Markets - W2: Insurance Demand">
+<meta property="og:title" content="Econ 372: Economics of Health Care Markets - W4: Physician agency">
 <meta property="og:description" content="">
 <meta property="og:image" content="https://econ372f23.classes.ianmccarthyecon.com//files/social-image-f22.png">
 <meta property="og:site-name" content="Econ 372: Economics of Health Care Markets">
 <meta property="og:locale" content="en_US">
 <meta property="og:image:height" content="640">
 <meta property="og:image:width" content="1280">
-<meta name="twitter:title" content="Econ 372: Economics of Health Care Markets - W2: Insurance Demand">
+<meta name="twitter:title" content="Econ 372: Economics of Health Care Markets - W4: Physician agency">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://econ372f23.classes.ianmccarthyecon.com//files/social-image-f22.png">
 <meta name="twitter:creator" content="@ianhealthecon">
@@ -131,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/wksheet2.html">W2: Insurance Demand</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/wksheet4.html">W4: Physician agency</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -175,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet2.html" class="sidebar-item-text sidebar-link active">
+  <a href="../resources/wksheet2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">W2: Insurance Demand</span></a>
   </div>
 </li>
@@ -187,7 +186,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet4.html" class="sidebar-item-text sidebar-link">
+  <a href="../resources/wksheet4.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">W4: Physician agency</span></a>
   </div>
 </li>
@@ -228,7 +227,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">W2: Insurance Demand</h1>
+<h1 class="title">W4: Physician agency</h1>
 </div>
 
 
@@ -243,26 +242,44 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Assume that utility takes the log form, <span class="math inline">\(u(x)=ln(x)\)</span>. If someone is healthy, they maintain their current wealth of $100, and if they become ill, they must incur a cost of $50. Answer the following questions based on this setup.</p>
+<p>Denote the quantity of care consumed by <span class="math inline">\(x\)</span>, and denote by <span class="math inline">\(B(x)\)</span> the function that determinesthe benefit of care to the patient. Assume that the patient must pay the full price of care, <span class="math inline">\(px\)</span>, so that their net benefit is <span class="math inline">\(NB=B(x)−px\)</span>.</p>
 <section id="question-1" class="level2">
 <h2 class="anchored" data-anchor-id="question-1">Question 1:</h2>
-<p><strong>Calculate the risk premium and willingness to pay based on a probability of illness of 0.1.</strong></p>
-<p>To find the risk premium, we first need to calculate the expected utility: <span class="math inline">\(E[u]=0.1*\ln(50) + 0.9*\ln(100)=\)</span> 4.536. Next, we need to find the monetary value that provides this same level of utility. So we need <span class="math inline">\(y\)</span> such that <span class="math inline">\(u(y)=\)</span> 4.536. Since our utility function is <span class="math inline">\(\ln(x)\)</span>, we know that <span class="math inline">\(y =\)</span> exp(4.536) <span class="math inline">\(=\)</span> 93.3. The risk premium is then the difference between this value and our starting wealth (less the expected cost of care), <span class="math inline">\(\pi =\)</span> 100 - 93.3 - 5 <span class="math inline">\(=\)</span> 1.697.</p>
+<p><strong>Find the patient’s optimal <span class="math inline">\(x\)</span>.</strong></p>
+<p>The patient just wants to maximize their net benefit, <span class="math inline">\(B(x) - px\)</span>. Taking the derivative and setting to 0, this means <span class="math inline">\(B'(x) = p\)</span> (i.e., marginal benefit to the patient is equal to the patient’s marginal cost).</p>
 </section>
 <section id="question-2" class="level2">
 <h2 class="anchored" data-anchor-id="question-2">Question 2:</h2>
-<p><strong>Repeat part (1) using a probability of illness of 0.2.</strong></p>
-<p>Repeating that same process yields an expected utility of 4.467. The monetary value that provides this level of utility with certainty is <span class="math inline">\(y =\)</span> exp(4.467) <span class="math inline">\(=\)</span> 87.06. The risk premium is then the difference between this value and our starting wealth (less the expected cost of care), <span class="math inline">\(\pi =\)</span> 100 - 87.06 - 10 <span class="math inline">\(=\)</span> 2.945.</p>
+<p><strong>Draw the marginal benefit on a graph and note the price and patient’s optimal quantity.</strong></p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="wksheet4_files/figure-html/unnamed-chunk-1-1.png" class="quarto-discovered-preview-image img-fluid figure-img" width="672"></p>
+<p></p><figcaption class="figure-caption">Patient’s optimal point of care</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
 </section>
 <section id="question-3" class="level2">
 <h2 class="anchored" data-anchor-id="question-3">Question 3:</h2>
-<p><strong>Repeat part (1) using a probability of illness of 0.5.</strong></p>
-<p>Repeating that same process yields an expected utility of 4.259. The monetary value that provides this level of utility with certainty is <span class="math inline">\(y =\)</span> exp(4.259) <span class="math inline">\(=\)</span> 70.71. The risk premium is then the difference between this value and our starting wealth (less the expected cost of care), <span class="math inline">\(\pi =\)</span> 100 - 70.71 - 25 <span class="math inline">\(=\)</span> 4.289.</p>
+<p><strong>Find the physician’s optimal <span class="math inline">\(x\)</span> assuming <span class="math inline">\(NB^{0}=0\)</span>.</strong></p>
+<p>The physician is profit maximizing, subject to the constraint that <span class="math inline">\(NB^{0}=B(x) - px=0\)</span>. Plugging this constraint into the profit function yields, <span class="math inline">\(\pi = B(x) - NB^{0} - cx = B(x) - cx\)</span>. Taking the derivative and setting it to 0 yields the expression, <span class="math inline">\(B'(x)=c\)</span>. So the physician also set’s marginal benefit equal to marginal cost…they just focus on their own marginal cost instead of the marginal cost to the patient.</p>
 </section>
 <section id="question-4" class="level2">
 <h2 class="anchored" data-anchor-id="question-4">Question 4:</h2>
-<p><strong>Explain how these values differ and why. What might this say about the profitability of insurance in a market with many sick people?</strong></p>
-<p>We see from these examples that the risk premium is increasing as the amount of uncertainty increases. If people are more certain about being ill, then the risk premium is lower. This means that people are unwilling to pay much more than the expected cost of care, leaving less potential profit for insurers.</p>
+<p><strong>Add the physician’s optimal <span class="math inline">\(x\)</span> to your graph and interpret the difference.</strong></p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="wksheet4_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+<p></p><figcaption class="figure-caption">Patient and physician’s optimal point of care</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
 
 
 </section>
@@ -503,14 +520,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../resources/wksheet1.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">W1: Expected Value</span>
+      <a href="../resources/wksheet3.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">W3: Adverse Selection</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../resources/wksheet3.html" class="pagination-link">
-        <span class="nav-page-text">W3: Adverse Selection</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->

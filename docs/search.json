@@ -607,5 +607,40 @@
     "title": "W3: Adverse Selection",
     "section": "Question 4:",
     "text": "Question 4:\nWhat if there is a $10 penalty imposed for those that do not purchase health insurance?\nThe penalty will effectively shift the demand curve out, as each individual is now willing to spend $10 more on health insurance. The new demand curve is then \\(120 - 3q\\). Setting this equal to the average cost curve yields \\(q=20\\). So a $10 penalty facilitates full insurance in this market."
+  },
+  {
+    "objectID": "resources/wksheet4.html",
+    "href": "resources/wksheet4.html",
+    "title": "W4: Physician agency",
+    "section": "",
+    "text": "Denote the quantity of care consumed by \\(x\\), and denote by \\(B(x)\\) the function that determinesthe benefit of care to the patient. Assume that the patient must pay the full price of care, \\(px\\), so that their net benefit is \\(NB=B(x)−px\\)."
+  },
+  {
+    "objectID": "resources/wksheet4.html#question-1",
+    "href": "resources/wksheet4.html#question-1",
+    "title": "W4: Physician agency",
+    "section": "Question 1:",
+    "text": "Question 1:\nFind the patient’s optimal \\(x\\).\nThe patient just wants to maximize their net benefit, \\(B(x) - px\\). Taking the derivative and setting to 0, this means \\(B'(x) = p\\) (i.e., marginal benefit to the patient is equal to the patient’s marginal cost)."
+  },
+  {
+    "objectID": "resources/wksheet4.html#question-2",
+    "href": "resources/wksheet4.html#question-2",
+    "title": "W4: Physician agency",
+    "section": "Question 2:",
+    "text": "Question 2:\nDraw the marginal benefit on a graph and note the price and patient’s optimal quantity.\n\n\n\n\n\nPatient’s optimal point of care"
+  },
+  {
+    "objectID": "resources/wksheet4.html#question-3",
+    "href": "resources/wksheet4.html#question-3",
+    "title": "W4: Physician agency",
+    "section": "Question 3:",
+    "text": "Question 3:\nFind the physician’s optimal \\(x\\) assuming \\(NB^{0}=0\\).\nThe physician is profit maximizing, subject to the constraint that \\(NB^{0}=B(x) - px=0\\). Plugging this constraint into the profit function yields, \\(\\pi = B(x) - NB^{0} - cx = B(x) - cx\\). Taking the derivative and setting it to 0 yields the expression, \\(B'(x)=c\\). So the physician also set’s marginal benefit equal to marginal cost…they just focus on their own marginal cost instead of the marginal cost to the patient."
+  },
+  {
+    "objectID": "resources/wksheet4.html#question-4",
+    "href": "resources/wksheet4.html#question-4",
+    "title": "W4: Physician agency",
+    "section": "Question 4:",
+    "text": "Question 4:\nAdd the physician’s optimal \\(x\\) to your graph and interpret the difference.\n\n\n\n\n\nPatient and physician’s optimal point of care"
   }
 ]

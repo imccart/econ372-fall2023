@@ -24,7 +24,7 @@ q.demand <- function(p){
 ```
 
 ## Question 1:
-**If the insurer enters the market at a price of <span>&#36;</span>65, what is the insurer's profit (or loss)?**
+**If the insurer enters the market at a price of \$65, what is the insurer's profit (or loss)?**
 
 
 we need to first calculate the marginal cost curve, $mc=100-4q$, and the average cost curve, $ac=100-2q$. At a price of $p=65$, we know that quantity demanded will be $q=$ `r q.demand(65)`. We can then calculate profit as just total revenue less total cost, $\pi = TR - TC =$ `r 65*q.demand(65)` - `r ac(q.demand(65))*q.demand(65)` = `r 65*q.demand(65) - ac(q.demand(65))*q.demand(65)`.
@@ -43,10 +43,10 @@ The equlibrium price is such that insurers earn zero profits (under our assumpti
 
 
 ## Question 4:
-**What if there is a <span>&#36;</span>10 penalty imposed for those that do not purchase health insurance?**
+**What if there is a \$10 penalty imposed for those that do not purchase health insurance?**
 
 
-The penalty will effectively shift the demand curve out, as each individual is now willing to spend <span>&#36;</span>10 more on health insurance. The new demand curve is then $120 - 3q$. Setting this equal to the average cost curve yields $q=20$. So a <span>&#36;</span>10 penalty facilitates full insurance in this market.
+The penalty will effectively shift the demand curve out, as each individual is now willing to spend \$10 more on health insurance. The new demand curve is then $120 - 3q$. Setting this equal to the average cost curve yields $q=20$. So a \$10 penalty facilitates full insurance in this market.
 
 
 

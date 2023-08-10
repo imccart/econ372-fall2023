@@ -2,7 +2,7 @@
 title: "W2: Insurance Demand"
 ---
 
-Assume that utility takes the log form, $u(x)=ln(x)$. If someone is healthy, they maintain their current wealth of <span>&#36;</span>100, and if they become ill, they must incur a cost of <span>&#36;</span>50. Answer the following questions based on this setup.
+Assume that utility takes the log form, $u(x)=ln(x)$. If someone is healthy, they maintain their current wealth of \$100, and if they become ill, they must incur a cost of \$50. Answer the following questions based on this setup.
 
 ## Question 1:
 **Calculate the risk premium and willingness to pay based on a probability of illness of 0.1.**
