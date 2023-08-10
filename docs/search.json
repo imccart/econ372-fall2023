@@ -509,5 +509,33 @@
     "title": "Syllabus",
     "section": "Assignments and grades",
     "text": "Assignments and grades\nDetailed descriptions of all assignments are on the assignments page. Each assignment will contribute to your final grade as described below.\n\n\n\n\n\n\n\n\n\nAssignment\nPoints\nPercent\n\n\n\n\nParticipation\n10\n2.5%\n\n\nHomework (60 x 3)\n180\n45.0%\n\n\nMid-term exam\n60\n15.0%\n\n\nFinal project\n150\n37.5%\n\n\n\n\nYour final percentage grade comes from your total points as a percent of all possible points available in the class (400). That percent then translates to a letter grade as follows:\n\n\n\n\n\n\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93-100%\nC\n73-76%\n\n\nA-\n90-92%\nC-\n70-72%\n\n\nB+\n87-89%\nD+\n67-69%\n\n\nB\n83-86%\nD\n63-66%\n\n\nB-\n80-82%\nD-\n60-62%\n\n\nC+\n77-79%\nF\n&lt; 60%"
+  },
+  {
+    "objectID": "resources/wksheet1.html",
+    "href": "resources/wksheet1.html",
+    "title": "W1: Expected Value",
+    "section": "",
+    "text": "An individual starts with a wealth of $100,000. With probability 0.3, they will get sick and incur a cost of $40,000."
+  },
+  {
+    "objectID": "resources/wksheet1.html#question-1",
+    "href": "resources/wksheet1.html#question-1",
+    "title": "W1: Expected Value",
+    "section": "Question 1:",
+    "text": "Question 1:\nWhat is this person’s expected cost of illness?\nThe expected cost is the probability of being ill (0.3) times the cost of being ill (40,000)\n\\(E[cost]=0.3 \\times 40,000 =\\) 12,000."
+  },
+  {
+    "objectID": "resources/wksheet1.html#question-2",
+    "href": "resources/wksheet1.html#question-2",
+    "title": "W1: Expected Value",
+    "section": "Question 2:",
+    "text": "Question 2:\nAssume this individual has a utility function of the form, \\(u(w) = w^{0.20}\\). What is this person’s expected utility?\nExpected utility works the same as any expectation…the “tricky” part is that we’re using the utility function to the find the values over which we form the expectation. In this case, we have two possible outcomes: a) healthy, which gives us a wealth of $100,000; or b) sick, in which case we incur the cost of illness and end up with $60,000. So to find the expected utility, we need to find the utility associated with each possible wealth value, and then we need to take the expectation over those utility values:\nStep 1: Find utility values:\n\nIf healthy: \\(u(w)|_{w=100,000} = 100,000^{0.2}=\\) 10\nIf sick: \\(u(w)|_{w=60,000} = 60,000^{0.2}=\\) 9.0288\n\nStep 2: Take the expectation Taking the expectation over these utility values yields: \\(E[u]=0.7 \\times\\) 10 \\(+0.3 \\times\\) 9.0288 \\(=\\) 9.7086."
+  },
+  {
+    "objectID": "resources/wksheet1.html#question-3",
+    "href": "resources/wksheet1.html#question-3",
+    "title": "W1: Expected Value",
+    "section": "Question 3:",
+    "text": "Question 3:\nCalculate this person’s utility if they were to incur the expected cost of illness. Is this utility higher or lower than what you found in part (2)?\nThe expected cost of illness is 12,000, so the expected wealth is 88,000. We just need to calculate the utility at this expected monetary value, \\(u=(88,000)^{0.2}=\\) 9.7476. As should be the case, this is higher than the expected utility from part (2) because this envisions a risk-less scenario whereas the expected utility in part (2) envisioned a risky scenario."
   }
 ]
