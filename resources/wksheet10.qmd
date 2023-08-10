@@ -1,9 +1,9 @@
 ---
-title: "Worksheet 10: Nash Bargaining"
+title: "W10: Nash Bargaining"
 ---
 
 Assume that two agents are negotiating over how best to divide their quantity of good x, which is normalized to 1. If the players reach an agreement, player 1 receives utility $u_{1} = x$, and player 2 receives utility $u_{2} = (1-x)$. If the players do not reach an agreement, player 1 receives a payoff of $t1 = 0$, and
-player 2 receives payoff $t_{2} = a > 0$.<br>
+player 2 receives payoff $t_{2} = a > 0$.
 
 
 ## Question 1
