@@ -1,5 +1,7 @@
 ---
 title: "Homework 1"
+#format:
+#  pdf: default
 ---
 
 ## Instructions
@@ -42,7 +44,7 @@ $$E\left[u(W)\right] = p u(W_{s}) + (1-p) u(W_{h}).$$
 
 4. New Jersey's Health Insurance market is sometimes used as an example of a "death spiral." Answer the following questions based on data from the [New Jersey Department of Banking and Insurance](http://www.state.nj.us/dobi/division_insurance/ihcseh/data_ihc.htm).
 
-    + Provide a summary table of monthly premiums and enrollments from 1997 to 2008. Focus only on family premiums for three specific insurers/plans: 1) Horizon Blue Cross / Blue Shield of NJ, Plan B, <span>&#36;</span>1,000 deductible; 2) Aetna Life Insurance Company, Plan D, <span>&#36;</span>1,000 deductible; and 3) Celtic Insurance Company, Plan C, <span>&#36;</span>2,500 deductible. Also focus only on the "Individual Health Coverage" (IHC) Program, so no need to worry about the small employer premiums. Your final table should include the years as rows and the monthly premiums for each plan as the columns. Please include one additional column showing the total number of "standard" enrollments across all plans at year end.
+    + Provide a summary table of monthly premiums and enrollments from 1997 to 2008. Focus only on family premiums for three specific insurers/plans: 1) Horizon Blue Cross / Blue Shield of NJ, Plan B, \$1,000 deductible; 2) Aetna Life Insurance Company, Plan D, \$1,000 deductible; and 3) Celtic Insurance Company, Plan C, \$2,500 deductible. Also focus only on the "Individual Health Coverage" (IHC) Program, so no need to worry about the small employer premiums. Your final table should include the years as rows and the monthly premiums for each plan as the columns. Please include one additional column showing the total number of "standard" enrollments across all plans at year end.
     
     + Please graph the premium for all three plans on a single graph. What do you see? 
     
