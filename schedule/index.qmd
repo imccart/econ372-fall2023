@@ -23,12 +23,12 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 |  2    | 8/28       | Basics of Health Insurance Contracts        | [{{< fa magnifying-glass >}}](/schedule/class-02.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-01.html) | | 
 |  3    | 8/30       | Private Health Insurance                    | [{{< fa magnifying-glass >}}](/schedule/class-03.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-02.html) | | 
 |  4    | 9/6        | Public Health Insurance                     | [{{< fa magnifying-glass >}}](/schedule/class-04.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-03.html) | | 
-| {{< fa star >}} | 9/8 | **Project: Stage 1**                     | | | | [{{< fa pen  >}}](/assignments/project.html) |
+| {{< fa star size=small >}} | 9/8 | **Project: Stage 1**                     | | | | [{{< fa pen  >}}](/assignments/project.html) |
 |  5    | 9/11       | Understanding Risk                      | [{{< fa magnifying-glass >}}](/schedule/class-05.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-04.html) | | 
 |  6    | 9/13       |  Risk Premium and WTP                      | [{{< fa magnifying-glass >}}](/schedule/class-06.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-3.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-05.html) | | 
 |  7    | 9/18       | Adverse Selection and Pricing           | [{{< fa magnifying-glass >}}](/schedule/class-07.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-06.html) | | 
 |  8    | 9/20       | Health Insurance Competition            | [{{< fa magnifying-glass >}}](/schedule/class-08.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-07.html) | | 
-| {{< fa star >}}   | 9/22       | **Homework 1**                              | | | | [{{< fa pen  >}}](/assignments/homework1.html) |
+| {{< fa star size=small >}}   | 9/22       | **Homework 1**                              | | | | [{{< fa pen  >}}](/assignments/homework1.html) |
 : {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
 
 
@@ -41,8 +41,8 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 | {{< fa star >}}  | 9/29        | **Project: Stage 2**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
 |  11   | 10/2        | Physician Agency and Payment Models  | [{{< fa magnifying-glass >}}](/schedule/class-11.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-2-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-03.html) | | 
 |  12   | 10/4       | Physician Learning                 | [{{< fa magnifying-glass >}}](/schedule/class-12.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-04.html) | | 
-|  13   | 10/11      | **Physician Training and Location** | [{{< fa magnifying-glass >}}](/schedule/class-13.html) |
-|       | 10/13       | **Homework 2**                               | | | | [{{< fa pen  >}}](/assignments/homework2.html) |
+|  13   | 10/11      | Physician Training and Location | [{{< fa magnifying-glass >}}](/schedule/class-13.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-05.html) | |
+| {{< fa star size=small >}}  | 10/13       | **Homework 2**                               | | | | [{{< fa pen  >}}](/assignments/homework2.html) |
 : {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
 
 
