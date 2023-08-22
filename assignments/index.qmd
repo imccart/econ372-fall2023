@@ -22,10 +22,10 @@ All of the homework assignments have both a "theoretical" section and an "empiri
 The empirical part of the assignments can be completed in any data software, including Excel. I also provide the data in `R` format if you're familiar with that language. If you'd like a refresher on `R` or would like to give it a shot from scratch, take a look at some of the links on our [resources](/resources/) page.
 
 ## Exam
-We only have one exam this semester, and it will cover content from Modules 1 and 2. The exam is worth 60 points toward your final grade. Please see the [Mid-term Exam](/assignments/exam1/) page for more details. 
+We only have one exam this semester, and it will cover content from Modules 1 and 2. The exam is worth 60 points toward your final grade. Please see the [Mid-term Exam](/assignments/exam1.html) page for more details. 
 
 ## Project
-We do not have a final exam in this class. Instead, we have a final project that asks you to compile a short policy brief on a topic of your choosing. Please see the [Final Project](/assignments/project/) for more details.
+We do not have a final exam in this class. Instead, we have a final project that asks you to compile a short policy brief on a topic of your choosing. Please see the [Final Project](/assignments/project.html) for more details.
 
 ## Participation
 "Participation" will be graded based on how many of the individual participation elements are submitted. Throughout the semester, I will post "check-in" questionnaires on Canvas. Each check-in will ask questions about what you've learned in a given module so far, areas where you are confused, things that we do in class that you think are working, and things that we do in class that you think are not working. Completion of the check-in will provide 1 participation point. 
