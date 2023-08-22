@@ -58,12 +58,6 @@ Various policies for this course are described below. Basically, let's all work 
 
 All regular class meetings will take place in **White Hall, Room 102** on Mondays and Wednesdays from 10:00am to 11:15am. 
 
-### Turning things in
-
-All assignments should be submitted as PDF files on Canvas via GradeScope. Since we'll be using some math in all of our answers, I encourage everyone to complete your assignments in [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)). Overleaf is not a requirement, but I think it will save some you time in the long run. You are also welcome to use Word, Google Docs, LibreOffice, etc., and convert to PDF for your final submission.
-
-The only **requirements** are that your submission is a PDF and that your answers are legible and organized. Please **DO NOT** write tiny answers in margins of papers, scan as PDF, and submit. I will not grade these types of submissions, and the assignment will be considered late until a legible submission is available. When you submit through GradeScope, you should be prompted to highlight which part of your PDF corresponds to each question. Please do this carefully. Misaligned submissions will be treated as late until they are properly aligned.
-
 
 ### Office hours
 
@@ -74,6 +68,20 @@ While we call these "office hours" they really should be "student hours". These 
 <iframe src="https://player.vimeo.com/video/270014784" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="display: block; margin: 0 auto 1rem;"></iframe>
 
 For any questions that you don't think need a meeting, you can always reach out to me through email. I do my best to respond within 24 hours to all emails.
+
+### Teaching Assistants
+
+We have two excellent economics PhD students as our teaching assistants this year. They will be available to help with any questions you have about the material, assignments, or anything else. They will also be grading your assignments. Please be nice to them. They are here to help you.
+
+  - **Hannah Pitzer**: Office hours Wednesday, 3:30-4:30, RRR R400A-5. Email hannah.pitzer@emory.edu.
+  - **Shirley Cai**: Office hours Friday, 1:30-2:30, RRR R433. Email shirley.cai@emory.edu.
+
+### Turning things in
+
+All assignments should be submitted as PDF files on Canvas via GradeScope. Since we'll be using some math in all of our answers, I encourage everyone to complete your assignments in [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)). Overleaf is not a requirement, but I think it will save some you time in the long run. You are also welcome to use Word, Google Docs, LibreOffice, etc., and convert to PDF for your final submission.
+
+The only **requirements** are that your submission is a PDF and that your answers are legible and organized. Please **DO NOT** write tiny answers in margins of papers, scan as PDF, and submit. I will not grade these types of submissions, and the assignment will be considered late until a legible submission is available. When you submit through GradeScope, you should be prompted to highlight which part of your PDF corresponds to each question. Please do this carefully. Misaligned submissions will be treated as late until they are properly aligned.
+
 
 ### Academic integrity
 
