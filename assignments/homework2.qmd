@@ -22,27 +22,27 @@ This is our second homework assignment of the semester. It covers questions rela
 
     + Find the patient's optimal level of $x$.
     
-    + Find the first order condition for the physician's choice of $x$. Don't try to solve this for $x$.
+    + Find the first order condition for the physician's choice of $x$. Just set the derivative equal to zero and simplify where you can. Don't try to solve this for $x$.
     
-    + Assuming that the physician makes <span>&#36;</span>1 on each quantity of care provided ($p_{s}-c=1$), find the value of the capitated payment, $R$, such that overtreatment is minimized. Please assume that $x$ can only take discrete values, so that the minimum amount of overtreatment is 1 "unit of care" per patient.
+    + Assuming that the physician makes \$1 on each quantity of care provided ($p_{s}-c=1$), find the value of the capitated payment, $R$, such that overtreatment is minimized. Please assume that $x$ can only take discrete values, so that the minimum amount of overtreatment is 1 "unit of care" per patient.
     
-    + Assuming that the physician loses <span>&#36;</span>1 on each quantity of care provided ($p_{s}-c=-1$), find the value of the capitated payment, $R$, such that undertreatment is minimized. Again, assume that $x$ can only take discrete values, so that the minimum amount of undertreatment is 1 "unit of care" per patient.
+    + Assuming that the physician loses \$1 on each quantity of care provided ($p_{s}-c=-1$), find the value of the capitated payment, $R$, such that undertreatment is minimized. Again, assume that $x$ can only take discrete values, so that the minimum amount of undertreatment is 1 "unit of care" per patient.
     
     + Which scenario (minimizing overtreatment or undertreatment) is better for the physician's profit.
 
 
 3. Two physicians, Physician 1 and Physician 2, are considering the adoption of a new medical treatment for a specific condition. Both physicians have access to the same observational data from a clinical trial in which 100 patients were treated with the new treatment, and 30 out of 100 patients showed improvement. The physicians, however, have different prior beliefs about the treatment's effectiveness.
 
-- Physician 1's Prior: $Beta(\alpha = 1, \beta = 1)$ distribution (Diffuse or Uniform prior).
-- Physician 2's Prior: $Beta(\alpha = 1, \beta = 20)$ distribution (Strong negative prior).
+   - Physician 1's Prior: $Beta(\alpha = 1, \beta = 1)$ distribution (Diffuse or Uniform prior).
+   - Physician 2's Prior: $Beta(\alpha = 1, \beta = 20)$ distribution (Strong negative prior).
 
-    + Calculate the updated belief of Physician 1 regarding the effectiveness of the new treatment. Express this updated belief as the mean of the posterior distribution.
+     + Calculate the updated belief of Physician 1 regarding the effectiveness of the new treatment. Express this updated belief as the mean of the posterior distribution.
 
-    + Calculate the updated belief of Physician 2 regarding the effectiveness of the new treatment. Express this updated belief as the mean of the posterior distribution.
+     + Calculate the updated belief of Physician 2 regarding the effectiveness of the new treatment. Express this updated belief as the mean of the posterior distribution.
 
-    + Compare the updated beliefs of Physician 1 and Physician 2. Interpret how their different prior beliefs have influenced their updated beliefs despite having access to the same observational data. Discuss the impact of prior strength on the updating process.
+     + Compare the updated beliefs of Physician 1 and Physician 2. Interpret how their different prior beliefs have influenced their updated beliefs despite having access to the same observational data. Discuss the impact of prior strength on the updating process.
 
-    + Based on the calculated updated beliefs and your understanding of Bayesian inference, assess which physician is likely to adopt the new treatment more quickly. Provide a reasoned explanation for your prediction, considering the interplay between prior beliefs, observational data, and the updating process.
+     + Based on the calculated updated beliefs and your understanding of Bayesian inference, assess which physician is likely to adopt the new treatment more quickly. Provide a reasoned explanation for your prediction, considering the interplay between prior beliefs, observational data, and the updating process.
 
 
 ## Empirical Questions
