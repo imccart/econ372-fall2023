@@ -85,6 +85,10 @@ We have two excellent economics PhD students as our teaching assistants this yea
 
 The Emory University Honor Code is taken seriously and governs all work in this course. Details about the Honor Code are available [here](http://catalog.college.emory.edu/policies/honor-code.html). By taking this course, you affirm that it is a violation of the code to cheat on exams, to plagiarize, to deviate from the instructions about collaboration on work that is submitted for grades, to give false information to a faculty member, and to undertake any other form of academic misconduct. You agree that the teacher is entitled to move you to another seat during examinations, without explanation. You also affirm that if you witness others violating the code you have a duty to report them to the honor council.
 
+### ChatGPT
+
+In this course, students are encouraged to leverage the capabilities of ChatGPT and related AI software for academic exploration and assistance. However, it is essential to uphold the principles of academic integrity. While you are free to seek guidance from ChatGPT, the final submissions of all assignments and assessments must reflect your individual understanding and expression. Any instance of verbatim or substantially unaltered content from ChatGPT or other external sources (including your own classmates) will be considered plagiarism and subject to our policies on academic integrity (see above). The goal is to foster critical thinking and creativity while utilizing the tool responsibly. If you have any questions about the appropriate use of ChatGPT or related software, please ask me.
+
 ### Accessibility services
 
 If you anticipate issues related to the format or requirements of this course, please meet with me. I would like us to discuss ways to ensure your full participation in the course. If you determine that accommodations are necessary, you may register with Accessibility Services at (404)727-9877 or via e-mail at accessibility@emory.edu. To register with OAS, students must self identify and initiate contact with the OAS office.
