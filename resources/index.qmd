@@ -11,4 +11,3 @@ Below is a short list of additional resources and links that I will reference at
     + [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund. This is the go-to resource for starting to work with **R**. Highly recommended, free, and informative.
     + [R Language Basics](https://raw.githack.com/uo-ec607/lectures/master/04-rlang/04-rlang.html#1) by Grant McDermott
     + [Data cleaning and wrangling in R](https://raw.githack.com/uo-ec607/lectures/master/05-tidyverse/05-tidyverse.html#1) by Grant McDermott
-    + [Struggling with Data](https://imccart.github.io/Econ-470/02-DataStruggles/02-slides.html#1) by Ian McCarthy
