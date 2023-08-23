@@ -61,7 +61,7 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 |:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
 | 16    | 10/23       | Hospitals and Pricing                       | [{{< fa magnifying-glass >}}](/schedule/class-16.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-01.html) | |
 | 17    | 10/25       | Hospital Objective Functions                | [{{< fa magnifying-glass >}}](/schedule/class-17.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-02.html) | |
-| 18    | 10/30       | **Pricing in Monopolistic Competition**     | [{{< fa magnifying-glass >}}](/schedule/class-18.html) |
+| 18    | 10/30       | Single-price Market                         | [{{< fa magnifying-glass >}}](/schedule/class-18.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-03.html) | |
 | 19    | 11/1        | **Two-price Market**                        | [{{< fa magnifying-glass >}}](/schedule/class-19.html) |
 |       | 11/3        | **Project: Stage 3**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
 | 20    | 11/6        | **Bargaining**                              | [{{< fa magnifying-glass >}}](/schedule/class-20.html) |
