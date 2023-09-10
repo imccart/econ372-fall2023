@@ -5,11 +5,9 @@ title: "Class 5: Understanding Risk"
 ## Objectives
 
 - Calculate expected values and expected utility
-- Define a risk pool
 - Define risk aversion and diminishing marginal utility
  
 ## Activities
 
-- Discussion of Humana and importance of risk pools
 - In-class problem on expected costs, expected utilities, and risk aversion
 - The worksheet is [here](/resources/wksheet1.html).
