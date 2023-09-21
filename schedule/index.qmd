@@ -64,8 +64,8 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 | 18    | 10/30       | Single-price Market                         | [{{< fa magnifying-glass >}}](/schedule/class-18.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-03.html) | |
 | 19    | 11/1        | Two-price Market                            | [{{< fa magnifying-glass >}}](/schedule/class-19.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-2-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-04.html) | |
 |       | 11/3        | **Project: Stage 3**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
-| 20    | 11/6        | **Bargaining**                              | [{{< fa magnifying-glass >}}](/schedule/class-20.html) |
-| 21    | 11/8        | **Mergers and Closures**                    | [{{< fa magnifying-glass >}}](/schedule/class-21.html) |
+| 20    | 11/6        | Bargaining and Prices                       | [{{< fa magnifying-glass >}}](/schedule/class-20.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-05.html) | |
+| 21    | 11/8        | Hospital Mergers                            | [{{< fa magnifying-glass >}}](/schedule/class-21.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-06.html) | |
 |       | 11/10       | **Homework 3**                              | | | | [{{< fa pen  >}}](/assignments/homework3.html) |
 : {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
 
