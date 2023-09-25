@@ -74,10 +74,10 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
-|  22    | 11/13  | **Basics of Prescription Drugs**        | [{{< fa magnifying-glass >}}](/schedule/class-22.html) |
-|  23    | 11/15  | **Drug Pricing**                        | [{{< fa magnifying-glass >}}](/schedule/class-23.html) |
-|  24    | 11/20  | **Innovation**                          | [{{< fa magnifying-glass >}}](/schedule/class-24.html) |
-|  25    | 11/27  | **Competition**                         | [{{< fa magnifying-glass >}}](/schedule/class-25.html) |
+|  22    | 11/13  | Basics of Prescription Drugs        | [{{< fa magnifying-glass >}}](/schedule/class-22.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-01.html) | |
+|  23    | 11/15  | **Brand Name Drugs**                | [{{< fa magnifying-glass >}}](/schedule/class-23.html) |
+|  24    | 11/20  | **Generic Drugs**                   | [{{< fa magnifying-glass >}}](/schedule/class-24.html) |
+|  25    | 11/27  | **Regulation and Innovation**       | [{{< fa magnifying-glass >}}](/schedule/class-25.html) |
 : {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
 
 
