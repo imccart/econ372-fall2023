@@ -8,4 +8,4 @@ title: "Class 10: Physician Agency and Financial Incentives"
 - Solve for treatment levels when physicians face a fixed price
  
 ## Activities
-- In-class problem on physician agency. The worksheet is [here](/resource/wksheet4.html).
+- In-class problem on physician agency. The worksheet is [here](/resources/wksheet4.html).
