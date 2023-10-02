@@ -936,5 +936,47 @@
     "title": "Class 10: Physician Agency and Financial Incentives",
     "section": "Activities",
     "text": "Activities\n\nIn-class problem on physician agency. The worksheet is here."
+  },
+  {
+    "objectID": "schedule/class-12.html",
+    "href": "schedule/class-12.html",
+    "title": "Class 12: Physician Learning",
+    "section": "",
+    "text": "Explain Bayesian learning in the context of physician treatment decisions\nSolve for a physician’s updated beliefs about treatment effectiveness\nExplain the role of prior beliefs in Bayesian learning"
+  },
+  {
+    "objectID": "schedule/class-12.html#objectives",
+    "href": "schedule/class-12.html#objectives",
+    "title": "Class 12: Physician Learning",
+    "section": "",
+    "text": "Explain Bayesian learning in the context of physician treatment decisions\nSolve for a physician’s updated beliefs about treatment effectiveness\nExplain the role of prior beliefs in Bayesian learning"
+  },
+  {
+    "objectID": "schedule/class-12.html#activities",
+    "href": "schedule/class-12.html#activities",
+    "title": "Class 12: Physician Learning",
+    "section": "Activities",
+    "text": "Activities\n\nIn-class problem on physician learninng. The worksheet is here."
+  },
+  {
+    "objectID": "schedule/class-11.html",
+    "href": "schedule/class-11.html",
+    "title": "Class 11: Physician Agency and Payment Models",
+    "section": "",
+    "text": "Define a capitated payment and describe at least one type of capitated payment currently in the U.S.\nSolve for treatment levels with capitated payments\nExplain at least one recent hospital pay for performance program\nExplain the difference between FFS and capitated payment models"
+  },
+  {
+    "objectID": "schedule/class-11.html#objectives",
+    "href": "schedule/class-11.html#objectives",
+    "title": "Class 11: Physician Agency and Payment Models",
+    "section": "",
+    "text": "Define a capitated payment and describe at least one type of capitated payment currently in the U.S.\nSolve for treatment levels with capitated payments\nExplain at least one recent hospital pay for performance program\nExplain the difference between FFS and capitated payment models"
+  },
+  {
+    "objectID": "schedule/class-11.html#activities",
+    "href": "schedule/class-11.html#activities",
+    "title": "Class 11: Physician Agency and Payment Models",
+    "section": "Activities",
+    "text": "Activities\n\nIn-class problem on physician agency with capitated payments. The worksheet is here.\nDiscuss (Clemens and Gottlieb 2014). Link to paper here."
   }
 ]
