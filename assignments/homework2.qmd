@@ -64,6 +64,6 @@ This is our second homework assignment of the semester. It covers questions rela
     
     + Identify the physicians with the most (top 10) E&M visits in 2020.
     
-    + How much would these physicians from part B (the top 10 physicians) stand to gain from the increased RVU rate? Show your results in a table. You can see the percentage increases from the CMS Final Rule Discussion document on Canvas.
+    + How much would these physicians from part B (the top 10 physicians) stand to gain from the increased RVU rate? Show your results in a table. You can see the percentage increases from the CMS Final Rule Discussion document available [here](cms-em-2021-finalrule.pdf).
     
     + In the context of physician agency, what might you predict will happen to utilization of more expensive services after the 2021 fee schedule update?
