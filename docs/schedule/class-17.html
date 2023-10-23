@@ -8,7 +8,7 @@
 
 <meta name="description" content="Course on the Economics of Health Care Markets at Emory University">
 
-<title>Economics of Health Care Markets - W9: Unilateral Pricing</title>
+<title>Economics of Health Care Markets - Class 17: Hospital Objective Functions</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../resources/wksheet10.html" rel="next">
-<link href="../resources/wksheet8.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -64,18 +62,14 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Economics of Health Care Markets - W9: Unilateral Pricing">
-<meta property="og:description" content="">
+<meta property="og:title" content="Economics of Health Care Markets - Class 17: Hospital Objective Functions">
 <meta property="og:image" content="https://econ372f23.classes.ianmccarthyecon.com//files/social-image-f22.png">
 <meta property="og:site-name" content="Economics of Health Care Markets">
 <meta property="og:locale" content="en_US">
 <meta property="og:image:height" content="640">
 <meta property="og:image:width" content="1280">
-<meta name="twitter:title" content="Economics of Health Care Markets - W9: Unilateral Pricing">
-<meta name="twitter:description" content="">
+<meta name="twitter:title" content="Economics of Health Care Markets - Class 17: Hospital Objective Functions">
 <meta name="twitter:image" content="https://econ372f23.classes.ianmccarthyecon.com//files/social-image-f22.png">
 <meta name="twitter:creator" content="@ianhealthecon">
 <meta name="twitter:card" content="summary_large_image">
@@ -83,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:image-width" content="1280">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -113,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Assignments</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../resources/index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../resources/index.html" rel="" target="">
  <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item compact">
@@ -127,119 +121,18 @@ ul.task-list li input[type="checkbox"] {
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/wksheet9.html">W9: Unilateral Pricing</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Resources</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/review1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Calculus Review</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/review2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Calculus Practice</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/exam-review1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Mid-term Review</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">W1: Expected Value</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">W2: Insurance Demand</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">W3: Adverse Selection</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">W4: Physician Agency</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">W5: Agency and Fixed Prices</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet6.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">W6: Agency and Payment Type</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet7.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">W7: Physician Learning</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet8.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">W8: NFP Hospitals</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet9.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">W9: Unilateral Pricing</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/wksheet10.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">W10: Two-price Market</span></a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#question-1" id="toc-question-1" class="nav-link active" data-scroll-target="#question-1">Question 1</a></li>
-  <li><a href="#question-2" id="toc-question-2" class="nav-link" data-scroll-target="#question-2">Question 2</a></li>
+  <li><a href="#objectives" id="toc-objectives" class="nav-link active" data-scroll-target="#objectives">Objectives</a></li>
+  <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities">Activities</a></li>
   </ul>
 </nav>
     </div>
@@ -248,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">W9: Unilateral Pricing</h1>
+<h1 class="title">Class 17: Hospital Objective Functions</h1>
 </div>
 
 
@@ -263,18 +156,20 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Consider the firm’s inverse demand curve, <span class="math inline">\(d=40-2q\)</span>, and cost curve, <span class="math inline">\(c(q)=5q+\frac{1}{2}q^{2}\)</span>.</p>
-<section id="question-1" class="level2">
-<h2 class="anchored" data-anchor-id="question-1">Question 1</h2>
-<p><strong>What is the firm’s profit maximizing price and quantity?</strong></p>
-<p>To solve this, we just need to maximize the firm’s profit with respect to quantity, <span class="math inline">\(q\)</span>. Then we substitute the optimal quantity into the demand function to find the optimal <span class="math inline">\(p\)</span>.</p>
-<p>The profit function in this case is <span class="math inline">\(\pi=d(q)*q - c(q) = (40-2q)q - 5q - \frac{1}{2}q^{2}\)</span>. Differentiating and setting equal to 0 yields <span class="math display">\[-2q + 40 - 2q - 5 - q = -5q + 35 = 0.\]</span> This holds for <span class="math inline">\(q=7\)</span>.</p>
-<p>Plugging <span class="math inline">\(q=7\)</span> into the demand function then yields <span class="math inline">\(p=40-14=26\)</span>. So the firm optimally sets a price of <span class="math inline">\(p=26\)</span> and sells a quantity of <span class="math inline">\(q=7\)</span>.</p>
+<section id="objectives" class="level2">
+<h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
+<ul>
+<li>Describe the differences between for-profit and not-for-profit hospitals</li>
+<li>Link historical patterns of U.S. hospital care to current issues</li>
+<li>Define and explain the differences between hospital prices, charges, and costs</li>
+<li>Understand variation in hospital pricing and investigate price variation with the Health Care Pricing Project materials</li>
+</ul>
 </section>
-<section id="question-2" class="level2">
-<h2 class="anchored" data-anchor-id="question-2">Question 2</h2>
-<p><strong>What is the firm’s markup over marginal cost?</strong></p>
-<p>We can find the marginal cost at <span class="math inline">\(q=7\)</span> by plugging this quantity into the marginal cost function, <span class="math inline">\(c'(q) = 5 + q = 12\)</span>. Since the firm’s price is <span class="math inline">\(p=26\)</span>, we know the markup over marginal cost is 14. We usually think of this in percentage terms, where we calculate the markup relative to marginal cost, <span class="math inline">\(\frac{p-c}{c} = \frac{14}{12}\)</span>. So the markup is more than 100% of the cost.</p>
+<section id="activities" class="level2">
+<h2 class="anchored" data-anchor-id="activities">Activities</h2>
+<ul>
+<li>In-class activity on not-for-profit hospital utility maximization. The worksheet is <a href="../resources/wksheet8.html">here</a>.</li>
+</ul>
 
 
 </section>
@@ -513,18 +408,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="../resources/wksheet8.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">W8: NFP Hospitals</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../resources/wksheet10.html" class="pagination-link">
-        <span class="nav-page-text">W10: Two-price Market</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

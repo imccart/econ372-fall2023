@@ -100,23 +100,23 @@
   {
     "objectID": "resources/wksheet9.html",
     "href": "resources/wksheet9.html",
-    "title": "W9: Two-price Market",
+    "title": "W9: Unilateral Pricing",
     "section": "",
-    "text": "Consider the firm’s inverse demand curve in the private insurance market, \\(d=16-q\\), and costs, \\(c(q)=5+q^{2}\\). Assume that there exists a public insurer that pays a fixed price of \\(\\bar{p}=10\\)."
+    "text": "Consider the firm’s inverse demand curve, \\(d=40-2q\\), and cost curve, \\(c(q)=5q+\\frac{1}{2}q^{2}\\)."
   },
   {
     "objectID": "resources/wksheet9.html#question-1",
     "href": "resources/wksheet9.html#question-1",
-    "title": "W9: Two-price Market",
+    "title": "W9: Unilateral Pricing",
     "section": "Question 1",
-    "text": "Question 1\nHow many private patients will the provider serve?\nThe practice will serve private insurance patients until the marginal revenue from those patients falls below the marginal revenue of a public patient. In this case, the marginal revenue of a public patient is \\(\\bar{p}=10\\). The Marginal revenue of a private practice is \\(16-2q\\). These are equal at \\(q=3\\). So the practice will see 3 private insurance patients.\nNote, we should check first that the practice will see any public patients. The way to do this is to make sure that the marginal revenue from a public patient is above the marginal revenue of \\(MR=MC\\) in the private market. In this case, \\(MR=MC\\) at \\(q=4\\) and \\(MR=8\\). This is below \\(\\bar{p}=10\\), so the practice will servce some portion of the public market whenever \\(\\bar{p}&gt;8\\)."
+    "text": "Question 1\nWhat is the firm’s profit maximizing price and quantity?\nTo solve this, we just need to maximize the firm’s profit with respect to quantity, \\(q\\). Then we substitute the optimal quantity into the demand function to find the optimal \\(p\\).\nThe profit function in this case is \\(\\pi=d(q)*q - c(q) = (40-2q)q - 5q - \\frac{1}{2}q^{2}\\). Differentiating and setting equal to 0 yields \\[-2q + 40 - 2q - 5 - q = -5q + 35 = 0.\\] This holds for \\(q=7\\).\nPlugging \\(q=7\\) into the demand function then yields \\(p=40-14=26\\). So the firm optimally sets a price of \\(p=26\\) and sells a quantity of \\(q=7\\)."
   },
   {
     "objectID": "resources/wksheet9.html#question-2",
     "href": "resources/wksheet9.html#question-2",
-    "title": "W9: Two-price Market",
+    "title": "W9: Unilateral Pricing",
     "section": "Question 2",
-    "text": "Question 2\nHow many public patients?\nThe practice will see patients to the point where \\(MR=\\bar{p}=MC\\), which holds for \\(2q=10\\), or \\(q=5\\). Combined with our answer in part 1, the practice will see 3 private insurance patients and 2 public insurance patients."
+    "text": "Question 2\nWhat is the firm’s markup over marginal cost?\nWe can find the marginal cost at \\(q=7\\) by plugging this quantity into the marginal cost function, \\(c'(q) = 5 + q = 12\\). Since the firm’s price is \\(p=26\\), we know the markup over marginal cost is 14. We usually think of this in percentage terms, where we calculate the markup relative to marginal cost, \\(\\frac{p-c}{c} = \\frac{14}{12}\\). So the markup is more than 100% of the cost."
   },
   {
     "objectID": "resources/wksheet9.html#question-3",
@@ -219,23 +219,23 @@
   {
     "objectID": "resources/wksheet10.html",
     "href": "resources/wksheet10.html",
-    "title": "W10: Nash Bargaining",
+    "title": "W10: Two-price Market",
     "section": "",
-    "text": "Assume that two agents are negotiating over how best to divide their quantity of good x, which is normalized to 1. If the players reach an agreement, player 1 receives utility \\(u_{1} = x\\), and player 2 receives utility \\(u_{2} = (1-x)\\). If the players do not reach an agreement, player 1 receives a payoff of \\(t1 = 0\\), and player 2 receives payoff \\(t_{2} = a &gt; 0\\)."
+    "text": "Consider the firm’s inverse demand curve in the private insurance market, \\(d=16-q\\), and costs, \\(c(q)=5+q^{2}\\). Assume that there exists a public insurer that pays a fixed price of \\(\\bar{p}=10\\)."
   },
   {
     "objectID": "resources/wksheet10.html#question-1",
     "href": "resources/wksheet10.html#question-1",
-    "title": "W10: Nash Bargaining",
+    "title": "W10: Two-price Market",
     "section": "Question 1",
-    "text": "Question 1\nFind the Nash bargaining solution to this game.\nThe Nash bargaining solution is to maximize \\(x(1-x-a)\\) (i.e., the product of each person’s payoff under agreement less their payoff under disagreement). We can find the solution by differentiating with respect to \\(x\\) and setting equal to 0, which yields \\(1-2x - a = 0\\), or \\(x=\\frac{1}{2}(1-a)\\)."
+    "text": "Question 1\nHow many private patients will the provider serve?\nThe practice will serve private insurance patients until the marginal revenue from those patients falls below the marginal revenue of a public patient. In this case, the marginal revenue of a public patient is \\(\\bar{p}=10\\). The Marginal revenue of a private practice is \\(16-2q\\). These are equal at \\(q=3\\). So the practice will see 3 private insurance patients.\nNote, we should check first that the practice will see any public patients. The way to do this is to make sure that the marginal revenue from a public patient is above the marginal revenue of \\(MR=MC\\) in the private market. In this case, \\(MR=MC\\) at \\(q=4\\) and \\(MR=8\\). This is below \\(\\bar{p}=10\\), so the practice will servce some portion of the public market whenever \\(\\bar{p}&gt;8\\)."
   },
   {
     "objectID": "resources/wksheet10.html#question-2",
     "href": "resources/wksheet10.html#question-2",
-    "title": "W10: Nash Bargaining",
+    "title": "W10: Two-price Market",
     "section": "Question 2",
-    "text": "Question 2\nExplain how this solution varies with \\(a\\).\nAs \\(a\\) increases, \\(x\\) decreases. Intuitively, this means that as player 2’s outside option improves, less of the total amount \\(x\\) goes to player 1. In other words, if player 2 has the least to lose in the negotiation, then player 2 will extract a larger share of the joint surplus."
+    "text": "Question 2\nHow many public patients?\nThe practice will see patients to the point where \\(MR=\\bar{p}=MC\\), which holds for \\(2q=10\\), or \\(q=5\\). Combined with our answer in part 1, the practice will see 3 private insurance patients and 2 public insurance patients."
   },
   {
     "objectID": "resources/review2.html",
@@ -681,23 +681,23 @@
   {
     "objectID": "resources/wksheet8.html",
     "href": "resources/wksheet8.html",
-    "title": "W8: Unilateral Pricing",
+    "title": "W8: NFP Hospitals",
     "section": "",
-    "text": "Consider the firm’s inverse demand curve, \\(d=40-2q\\), and cost curve, \\(c(q)=5q+\\frac{1}{2}q^{2}\\)."
+    "text": "Consider a NFP hospital with utility function \\(u(q,z),\\) where \\(q\\) denotes quantity and \\(z\\) denotes quality of care. Using only a graphical approach, answer the following questions."
   },
   {
     "objectID": "resources/wksheet8.html#question-1",
     "href": "resources/wksheet8.html#question-1",
-    "title": "W8: Unilateral Pricing",
+    "title": "W8: NFP Hospitals",
     "section": "Question 1",
-    "text": "Question 1\nWhat is the firm’s profit maximizing price and quantity?\nTo solve this, we just need to maximize the firm’s profit with respect to quantity, \\(q\\). Then we substitute the optimal quantity into the demand function to find the optimal \\(p\\).\nThe profit function in this case is \\(\\pi=d(q)*q - c(q) = (40-2q)q - 5q - \\frac{1}{2}q^{2}\\). Differentiating and setting equal to 0 yields \\[-2q + 40 - 2q - 5 - q = -5q + 35 = 0.\\] This holds for \\(q=7\\).\nPlugging \\(q=7\\) into the demand function then yields \\(p=40-14=26\\). So the firm optimally sets a price of \\(p=26\\) and sells a quantity of \\(q=7\\)."
+    "text": "Question 1\nThe hospital’s market expands insurance access so that more people can now purchase health care. What might this do to quantity and quality?\nInsurance expansion will tend to shift demand curves out for every level of quality. This will shift the production possibilities curve out, allowing the hospital to produce more of both quality and quantity."
   },
   {
     "objectID": "resources/wksheet8.html#question-2",
     "href": "resources/wksheet8.html#question-2",
-    "title": "W8: Unilateral Pricing",
+    "title": "W8: NFP Hospitals",
     "section": "Question 2",
-    "text": "Question 2\nWhat is the firm’s markup over marginal cost?\nWe can find the marginal cost at \\(q=7\\) by plugging this quantity into the marginal cost function, \\(c'(q) = 5 + q = 12\\). Since the firm’s price is \\(p=26\\), we know the markup over marginal cost is 14. We usually think of this in percentage terms, where we calculate the markup relative to marginal cost, \\(\\frac{p-c}{c} = \\frac{14}{12}\\). So the markup is more than 100% of the cost."
+    "text": "Question 2\nThere is a contraction of nursing supply in the hospital’s market, such that the hospital must offer higher wages to its nurses to maintain staff. What might this do to quantity and quality?\nHigher wages will increase the hospital’s average cost of production, shifting the production possibilities curve in. This will tend to reduce both quantity and quality."
   },
   {
     "objectID": "schedule/class-01.html",
@@ -1020,5 +1020,75 @@
     "title": "Class 14: Exam Review",
     "section": "Activities",
     "text": "Activities\n\nExam review available here."
+  },
+  {
+    "objectID": "schedule/class-17.html",
+    "href": "schedule/class-17.html",
+    "title": "Class 17: Hospital Objective Functions",
+    "section": "",
+    "text": "Describe the differences between for-profit and not-for-profit hospitals\nLink historical patterns of U.S. hospital care to current issues\nDefine and explain the differences between hospital prices, charges, and costs\nUnderstand variation in hospital pricing and investigate price variation with the Health Care Pricing Project materials"
+  },
+  {
+    "objectID": "schedule/class-17.html#objectives",
+    "href": "schedule/class-17.html#objectives",
+    "title": "Class 17: Hospital Objective Functions",
+    "section": "",
+    "text": "Describe the differences between for-profit and not-for-profit hospitals\nLink historical patterns of U.S. hospital care to current issues\nDefine and explain the differences between hospital prices, charges, and costs\nUnderstand variation in hospital pricing and investigate price variation with the Health Care Pricing Project materials"
+  },
+  {
+    "objectID": "schedule/class-17.html#activities",
+    "href": "schedule/class-17.html#activities",
+    "title": "Class 17: Hospital Objective Functions",
+    "section": "Activities",
+    "text": "Activities\n\nIn-class activity on not-for-profit hospital utility maximization. The worksheet is here."
+  },
+  {
+    "objectID": "resources/wksheet11.html",
+    "href": "resources/wksheet11.html",
+    "title": "W11: Nash Bargaining",
+    "section": "",
+    "text": "Assume that two agents are negotiating over how best to divide their quantity of good x, which is normalized to 1. If the players reach an agreement, player 1 receives utility \\(u_{1} = x\\), and player 2 receives utility \\(u_{2} = (1-x)\\). If the players do not reach an agreement, player 1 receives a payoff of \\(t1 = 0\\), and player 2 receives payoff \\(t_{2} = a &gt; 0\\)."
+  },
+  {
+    "objectID": "resources/wksheet11.html#question-1",
+    "href": "resources/wksheet11.html#question-1",
+    "title": "W11: Nash Bargaining",
+    "section": "Question 1",
+    "text": "Question 1\nFind the Nash bargaining solution to this game.\nThe Nash bargaining solution is to maximize \\(x(1-x-a)\\) (i.e., the product of each person’s payoff under agreement less their payoff under disagreement). We can find the solution by differentiating with respect to \\(x\\) and setting equal to 0, which yields \\(1-2x - a = 0\\), or \\(x=\\frac{1}{2}(1-a)\\)."
+  },
+  {
+    "objectID": "resources/wksheet11.html#question-2",
+    "href": "resources/wksheet11.html#question-2",
+    "title": "W11: Nash Bargaining",
+    "section": "Question 2",
+    "text": "Question 2\nExplain how this solution varies with \\(a\\).\nAs \\(a\\) increases, \\(x\\) decreases. Intuitively, this means that as player 2’s outside option improves, less of the total amount \\(x\\) goes to player 1. In other words, if player 2 has the least to lose in the negotiation, then player 2 will extract a larger share of the joint surplus."
+  },
+  {
+    "objectID": "schedule/class-16.html",
+    "href": "schedule/class-16.html",
+    "title": "Class 16: Introduction to Hospital Pricing",
+    "section": "",
+    "text": "Understand the history and evolution of hospital care in the U.S.\nLink historical patterns of U.S. hospital care to current issues\nDefine and explain the differences between hospital prices, charges, and costs\nUnderstand variation in hospital pricing and investigate price variation with the Health Care Pricing Project materials"
+  },
+  {
+    "objectID": "schedule/class-16.html#objectives",
+    "href": "schedule/class-16.html#objectives",
+    "title": "Class 16: Introduction to Hospital Pricing",
+    "section": "",
+    "text": "Understand the history and evolution of hospital care in the U.S.\nLink historical patterns of U.S. hospital care to current issues\nDefine and explain the differences between hospital prices, charges, and costs\nUnderstand variation in hospital pricing and investigate price variation with the Health Care Pricing Project materials"
+  },
+  {
+    "objectID": "schedule/class-16.html#activities",
+    "href": "schedule/class-16.html#activities",
+    "title": "Class 16: Introduction to Hospital Pricing",
+    "section": "Activities",
+    "text": "Activities\n\nBriefly review exam questions, if needed\nReview upcoming stage 3 of your projects\nDiscussion of “what is a hospital’s price”"
+  },
+  {
+    "objectID": "resources/wksheet10.html#question-3",
+    "href": "resources/wksheet10.html#question-3",
+    "title": "W10: Two-price Market",
+    "section": "Question 3",
+    "text": "Question 3\nWhat if \\(\\bar{p}\\) drops to $9.\nIn this case, the practice will again see total patients to the point where \\(MC=\\bar{p}\\). This holds for \\(2q=9\\), or \\(q=4.5\\). The practice will switch to the public market at \\(MR=\\bar{p}\\). This holds for \\(16-2q=9\\), or \\(q=3.5\\). So the drop in the fixed payment rate will lead to an increase in the number of private insurance patients seen (from 3 to 3.5), and a decrease in the number of public patients seen (from 2 to 1). The total number of patients seen in this case also decreases (from 5 to 4.5)."
   }
 ]
