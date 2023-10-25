@@ -1,5 +1,7 @@
 ---
 title: "Final Project"
+format:
+  pdf: default
 ---
 
 This year, the final project is a 2-page policy brief. This is a big part of your grade and essentially replaces what would otherwise be a final exam. Please start as early as possible and save yourself lots of stress in December! Big thanks to [Prof. Rebecca Kreitzer](https://www.rebeccakreitzer.com/) for making her policy brief assignment publicly available on her website, which was the basis for our project.
