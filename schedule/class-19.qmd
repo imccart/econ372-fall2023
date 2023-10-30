@@ -10,5 +10,5 @@ title: "Class 19: Two-price Market"
 
 
 ## Activities
-- Solve the practice problem on the two-price model. Worksheet available [here](/resource/wksheet10.html).
+- Solve the practice problem on the two-price model. Worksheet available [here](/resources/wksheet10.html).
 

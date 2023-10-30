@@ -9,5 +9,5 @@ title: "Class 18: Single-price Market"
 
 
 ## Activities
-- Solve for the profit maximizing price and quantity for a monopolistically competitive firm. Worksheet available [here](/resource/wksheet9.html).
+- Solve for the profit maximizing price and quantity for a monopolistically competitive firm. Worksheet available [here](/resources/wksheet9.html).
 
