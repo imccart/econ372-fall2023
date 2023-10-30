@@ -998,7 +998,7 @@
     "href": "schedule/class-16.html#activities",
     "title": "Class 16: Introduction to Hospital Pricing",
     "section": "Activities",
-    "text": "Activities\n\nBriefly review exam questions, if needed\nReview upcoming stage 3 of your projects\nDiscussion of “what is a hospital’s price”"
+    "text": "Activities\n\nBriefly review exam questions, if needed\nReview upcoming stage 3 of your projects\nDiscussion of “what is a hospital’s price”\nWatch video on hospital billing and what we mean by hospital “price”."
   },
   {
     "objectID": "schedule/index.html",
@@ -1055,5 +1055,47 @@
     "title": "Schedule",
     "section": "Final Projects",
     "text": "Final Projects\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nMain Reading\nSlides\nAssignment\n\n\n\n\n26-27\n11/29-12/4\nProject: Stages 4-5"
+  },
+  {
+    "objectID": "schedule/class-18.html",
+    "href": "schedule/class-18.html",
+    "title": "Class 18: Single-price Market",
+    "section": "",
+    "text": "Explain and solve for profit maximizing price for monopolistically competitive firm\nExplain and solve for profit maximizing quantity for price-taking firm"
+  },
+  {
+    "objectID": "schedule/class-18.html#objectives",
+    "href": "schedule/class-18.html#objectives",
+    "title": "Class 18: Single-price Market",
+    "section": "",
+    "text": "Explain and solve for profit maximizing price for monopolistically competitive firm\nExplain and solve for profit maximizing quantity for price-taking firm"
+  },
+  {
+    "objectID": "schedule/class-18.html#activities",
+    "href": "schedule/class-18.html#activities",
+    "title": "Class 18: Single-price Market",
+    "section": "Activities",
+    "text": "Activities\n\nSolve for the profit maximizing price and quantity for a monopolistically competitive firm. Worksheet available here."
+  },
+  {
+    "objectID": "schedule/class-19.html",
+    "href": "schedule/class-19.html",
+    "title": "Class 19: Two-price Market",
+    "section": "",
+    "text": "Use our two-price model to predict the effect of a change in public (e.g. Medicare or Medicaid) prices\nIdentify the minimum price at which public insurance patients lose access to care\nDefine cost-shifting and summarize the key aspects of the cost-shifting debate"
+  },
+  {
+    "objectID": "schedule/class-19.html#objectives",
+    "href": "schedule/class-19.html#objectives",
+    "title": "Class 19: Two-price Market",
+    "section": "",
+    "text": "Use our two-price model to predict the effect of a change in public (e.g. Medicare or Medicaid) prices\nIdentify the minimum price at which public insurance patients lose access to care\nDefine cost-shifting and summarize the key aspects of the cost-shifting debate"
+  },
+  {
+    "objectID": "schedule/class-19.html#activities",
+    "href": "schedule/class-19.html#activities",
+    "title": "Class 19: Two-price Market",
+    "section": "Activities",
+    "text": "Activities\n\nSolve the practice problem on the two-price model. Worksheet available here."
   }
 ]

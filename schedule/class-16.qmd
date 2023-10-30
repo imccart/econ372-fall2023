@@ -12,3 +12,4 @@ title: "Class 16: Introduction to Hospital Pricing"
 - Briefly review exam questions, if needed
 - Review upcoming stage 3 of your projects
 - Discussion of "what is a hospital's price"
+- Watch [video](https://truecostofhealthcare.org/hospitalization/) on hospital billing and what we mean by hospital "price".
