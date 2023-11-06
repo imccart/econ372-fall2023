@@ -1,0 +1,11 @@
+---
+title: "Class 20: Bargaining and Prices"
+---
+
+
+## Objectives for this week
+- Understand the baseline Nash bargaining problem and solve a simple version of a Nash bargaining model
+- Describe the Nash bargaining model in the context of hospital negotiations
+
+## Activities
+- Solve for a Nash bargaining problem. The class worksheet is [here](/resources/wksheet11.html).
