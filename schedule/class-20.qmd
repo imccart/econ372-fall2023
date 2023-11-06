@@ -9,3 +9,6 @@ title: "Class 20: Bargaining and Prices"
 
 ## Activities
 - Solve for a Nash bargaining problem. The class worksheet is [here](/resources/wksheet11.html).
+
+## Current Issues
+- We'll start off class by discussing recent changes to Medicare payments. See the Axios article [here](https://www.axios.com/2023/11/03/medicare-cuts-doctor-and-hospital-payments)
