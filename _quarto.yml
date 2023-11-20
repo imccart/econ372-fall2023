@@ -82,6 +82,7 @@ website:
         - resources/wksheet9.qmd
         - resources/wksheet10.qmd
         - resources/wksheet11.qmd
+        - resources/wksheet12.qmd
 
 
   page-footer:

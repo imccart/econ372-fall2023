@@ -8,7 +8,7 @@
 
 <meta name="description" content="Course on the Economics of Health Care Markets at Emory University">
 
-<title>Economics of Health Care Markets - Class 24: Generic Drugs</title>
+<title>Economics of Health Care Markets - W12: Pharma Pricing</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../resources/wksheet11.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -62,18 +63,22 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Economics of Health Care Markets - Class 24: Generic Drugs">
+<meta property="og:title" content="Economics of Health Care Markets - W12: Pharma Pricing">
+<meta property="og:description" content="">
 <meta property="og:image" content="https://econ372f23.classes.ianmccarthyecon.com//files/social-image-f22.png">
 <meta property="og:site-name" content="Economics of Health Care Markets">
 <meta property="og:locale" content="en_US">
-<meta name="twitter:title" content="Economics of Health Care Markets - Class 24: Generic Drugs">
+<meta name="twitter:title" content="Economics of Health Care Markets - W12: Pharma Pricing">
+<meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://econ372f23.classes.ianmccarthyecon.com//files/social-image-f22.png">
 <meta name="twitter:creator" content="@ianhealthecon">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -103,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Assignments</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../resources/index.html" rel="" target="">
+    <a class="nav-link active" href="../resources/index.html" rel="" target="" aria-current="page">
  <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item compact">
@@ -117,18 +122,132 @@ ul.task-list li input[type="checkbox"] {
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/wksheet12.html">W12: Pharma Pricing</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Resources</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/review1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Calculus Review</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/review2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Calculus Practice</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/exam-review1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mid-term Review</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W1: Expected Value</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W2: Insurance Demand</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W3: Adverse Selection</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W4: Physician Agency</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet5.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W5: Agency and Fixed Prices</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet6.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W6: Agency and Payment Type</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet7.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W7: Physician Learning</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet8.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W8: NFP Hospitals</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet9.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W9: Unilateral Pricing</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet10.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W10: Two-price Market</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet11.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">W11: Nash Bargaining</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/wksheet12.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">W12: Pharma Pricing</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#objectives" id="toc-objectives" class="nav-link active" data-scroll-target="#objectives">Objectives</a></li>
-  <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities">Activities</a></li>
+  <li><a href="#question-1" id="toc-question-1" class="nav-link active" data-scroll-target="#question-1">Question 1</a></li>
+  <li><a href="#question-2" id="toc-question-2" class="nav-link" data-scroll-target="#question-2">Question 2</a></li>
+  <li><a href="#question-3" id="toc-question-3" class="nav-link" data-scroll-target="#question-3">Question 3</a></li>
   </ul>
 </nav>
     </div>
@@ -137,7 +256,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Class 24: Generic Drugs</h1>
+<h1 class="title">W12: Pharma Pricing</h1>
 </div>
 
 
@@ -152,19 +271,21 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="objectives" class="level2">
-<h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
-<ul>
-<li>Explain the difference between brand name and generic drugs</li>
-<li>Model pricing in the market for generic drugs</li>
-<li>List 2 ways that firms can increase barriers to entry for generic drugs after initial patent expiration</li>
-</ul>
+<p>Consider a pharmaceutical firm setting its price for a brand name drug (i.e., patent protected) with no relevant substitutes. The inverse demand function for this drug is given by <span class="math inline">\(P = 100 - 3q\)</span>, with cost function <span class="math inline">\(c(q) = 2q\)</span>.</p>
+<section id="question-1" class="level2">
+<h2 class="anchored" data-anchor-id="question-1">Question 1</h2>
+<p><strong>Find the profix maximizing price without insurance.</strong></p>
+<p>To find the profit maximizing price, we need to first find the profit maximizing quantity by forming the profit function, differentiating with respect to <span class="math inline">\(q\)</span>, and setting equal to 0. The profit function is given by: <span class="math inline">\(\pi = (100-3q)\times q - 2\times q\)</span>. Differentiating with respect to <span class="math inline">\(q\)</span> yields: <span class="math inline">\(\frac{d\pi}{dq} = 100 - 6q - 2 = 0\)</span>. Solving for <span class="math inline">\(q\)</span> yields <span class="math inline">\(q = 16.3\)</span>. Plugging this into the inverse demand function yields <span class="math inline">\(P = 100 - 3\times 16.3 = 51\)</span>. Thus, the profit maximizing price is <span class="math inline">\(P = 51\)</span>.</p>
 </section>
-<section id="activities" class="level2">
-<h2 class="anchored" data-anchor-id="activities">Activities</h2>
-<ul>
-<li>In-class worksheet on pharma pricing, <a href="../resources/wksheet12.html">here</a>.</li>
-</ul>
+<section id="question-2" class="level2">
+<h2 class="anchored" data-anchor-id="question-2">Question 2</h2>
+<p><strong>Introduce insurance by way of a coinsurance rate, <span class="math inline">\(\alpha\)</span>=0.5.</strong></p>
+<p>The coinsurance rate is the fraction of the price that the consumer pays. Thus, the consumer pays <span class="math inline">\(\alpha \times P\)</span> and the insurance company pays <span class="math inline">\((1-\alpha)\times P\)</span>. The inverse demand function is therefore scaled up, such that <span class="math inline">\(P = \frac{100-3q}{\alpha}\)</span>. The profit function is therefore given by: <span class="math inline">\(\pi = \frac{100-3q}{\alpha}\times q - 2\times q\)</span>. Differentiating with respect to <span class="math inline">\(q\)</span> yields: <span class="math inline">\(\frac{d\pi}{dq} = \frac{100- 6q}{\alpha} - 2 = 0\)</span>. Setting <span class="math inline">\(\alpha=0.5\)</span> and solving for <span class="math inline">\(q\)</span> yields <span class="math inline">\(q = 16.5\)</span>. Plugging this into the inverse demand function yields <span class="math inline">\(P = \frac{100 - 3\times 16.5}{0.5} = 101\)</span>. Thus, the profit maximizing price is <span class="math inline">\(P = 101\)</span>.</p>
+</section>
+<section id="question-3" class="level2">
+<h2 class="anchored" data-anchor-id="question-3">Question 3</h2>
+<p><strong>Briefly explain the role of coinsurance on pharmaceutical pricing and demand</strong></p>
+<p>Coinsurance reduces the price sensitivity of consumers. This is because the consumer only pays a fraction of the price, and thus is less sensitive to the price. This allows the firm to increase the price. However, consumers remain responsible for some portion of price increases, unlike the case of copayments where consumers are shielded from price increases beyond the copayment amount. Not surprisingly, we see insurers opting for coinsurance over copayments when covering high cost brand name drugs.</p>
 
 
 </section>
@@ -403,6 +524,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../resources/wksheet11.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">W11: Nash Bargaining</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
